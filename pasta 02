@@ -1,20 +1,11 @@
 
-<item>
-<title>[B][COLOR red] ALGUNS LINKS SÃO LIBERADOS 5 MINUTOS ANTES DAS PARTIDAS [/COLOR][/B]</title>		
-</item>
 
 <item>
-<title>[B][COLOR yellow] JOGOS DO DIA 30 DE OUTUBRO [/COLOR][/B]</title>		
-</item>
-
-
-<item>
-<title>[B][COLOR white] Ponte Preta X Vitória BA 16:00 [/COLOR][/B]</title>		
-<thumbnail>https://i.ibb.co/xhPpFr8/ponte-pretaa-X-vit-ria-BA.png</thumbnail>
-<fanart>https://portalcbncampinas.com.br/wp-content/uploads/2019/08/Estadio-Moises-Lucarelli-Foto-Divulga%C3%A7ao.jpg</fanart>
-<link>$nome=[B]OPÇÃO 1 [/B]</link>
-<link>$nome=[B]OPÇÃO 2 [/B]</link>
-<link>https://e.jazzy.to:30443/live/88/chunks.m3u8?nimblesessionid=25251079&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjgvMjAyMSAxMDowNjo1OSBQTSZoYXNoX3ZhbHVlPXlwdmtTaHlLeVNIL3pJTFUwdUJpL0E9PSZ2YWxpZG1pbnV0ZXM9MTIwnome=[B]OPÇÃO 3 [/B]</link>
+<title>[B][COLOR white] PARA DORMIR [/COLOR][/B]</title>		
+<thumbnail>https://i.ibb.co/0ZMRxhQ/PARA-DORMIR.png</thumbnail>
+<fanart>https://i.ibb.co/s3rWVKp/meditopia-fundo.png</fanart>
+<link>https://libraryitems.insighttimer-api.net/l2c1f2w0a7u7r8f8k1c0n9g1f5s2n0m7r3p0n2w1/hls/v1/index.m3u8$nome=[B]PARA DORMIR 1 [/B]</link>
+<link>$nome=[B]PARA DORMIR 2 [/B]</link>
 
 <info></info>
 </item>
