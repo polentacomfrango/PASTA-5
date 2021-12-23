@@ -51,7 +51,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AGRO BRASIL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_anubis[/B][/COLOR]&amp;url=http://tv5full.xyz:25461/ametv1/96O3H71Npc/42438
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AGRO CANALtest
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_anubis[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1111/123456/10.ts?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_anubis[/B][/COLOR]&amp;url=http://rec2.distv.net:80/jaja/jaja/113
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AGRO CANAL
 http://168.205.87.198:8555/live/leila/123456/10.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AGRO CANAL
