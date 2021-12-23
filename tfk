@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/0L5tCLH.png" group-title="Shop",1001 Noites t1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://list.iptvcat.com/my_list/s/f479cb6afae2deed32e71245aed3ca1b.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://iptvm3ulist.com/m3u/br01_iptvm3ulist_com_211221.m3u
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/0L5tCLH.png" group-title="Shop",1001 Noites t2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=https://list.iptvcat.com/my_list/s/f479cb6afae2deed32e71245aed3ca1b.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=https://iptvm3ulist.com/m3u/br01_iptvm3ulist_com_211221.m3u
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",1001 Noites HD 1
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://list.iptvcat.com/my_list/s/f54615572ce47c5476bb8348203ee040.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/1hd.png" group-title="Music",1HD Music
