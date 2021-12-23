@@ -4,35 +4,35 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://iptvm3ulist
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/0L5tCLH.png" group-title="Shop",1001 Noites t2
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=https://iptvm3ulist.com/m3u/br01_iptvm3ulist_com_211221.m3u
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",1001 Noites HD 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://list.iptvcat.com/my_list/s/f54615572ce47c5476bb8348203ee040.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://list.iptvcat.com/my_list/s/f54615572ce47c5476bb8348203ee040.m3u
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/1hd.png" group-title="Music",1HD Music
 https://list.iptvcat.com/my_list/s/85fcb418e47439ad4a9215a441bd6cbc.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/94fm.png" group-title="Undefined",94 Atividade FM
-https://list.iptvcat.com/my_list/s/b0132efbd0d28ccd722e8ad34375d0fd.m3u8
+https://list.iptvcat.com/my_list/s/b0132efbd0d28ccd722e8ad34375d0fd.m3u
 
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://list.iptvcat.com/my_list/s/5719f3c7e18583fc8fc351c4d9512392.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://list.iptvcat.com/my_list/s/5719f3c7e18583fc8fc351c4d9512392.m3u
 
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://list.iptvcat.com/my_list/s/aa3ae165ae759e137a9c057d80483adb.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=https://list.iptvcat.com/my_list/s/aa3ae165ae759e137a9c057d80483adb.m3u8
 
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://list.iptvcat.com/my_list/s/a4b6e0afbec43a78534863e182320712.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=https://list.iptvcat.com/my_list/s/a4b6e0afbec43a78534863e182320712.m3u
 
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E FHD [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://list.iptvcat.com/my_list/s/d475e1ac2aa6c93507cf450704a2f649.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=https://list.iptvcat.com/my_list/s/d475e1ac2aa6c93507cf450704a2f649.m3u
 
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E FULLHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=https://list.iptvcat.com/my_list/s/9942dccc0fd3d434ec7ac8f09dda859e.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=https://list.iptvcat.com/my_list/s/9942dccc0fd3d434ec7ac8f09dda859e.m3u
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/94fm.png" group-title="Undefined",A&E HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=https://list.iptvcat.com/my_list/s/2e0ab70afd43d9b11d509c720ddb4e13.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=https://list.iptvcat.com/my_list/s/2e0ab70afd43d9b11d509c720ddb4e13.m3u
 
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=https://list.iptvcat.com/my_list/s/cd5d60493ec2ac50d039d1a8c9cca095.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=https://list.iptvcat.com/my_list/s/cd5d60493ec2ac50d039d1a8c9cca095.m3u
 
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=https://list.iptvcat.com/my_list/s/5f6d33b984090451ec005a07d60bdfbf.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=https://list.iptvcat.com/my_list/s/5f6d33b984090451ec005a07d60bdfbf.m3u
 
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://list.iptvcat.com/my_list/s/79df0476df12642408dc4b9d5bd8ebe8.m3u8
