@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/0L5tCLH.png" group-title="Shop",1001 Noites
-https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist.m3u8?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",1001 Noites HD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/286064?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/1hd.png" group-title="Music",1HD Music
@@ -26,23 +26,23 @@ http://cdn99.one:80/984854/6b4zmQ/128608.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A Fazenda 13 [Sinal Principal] HD
 http://cdn99.one:80/984854/6b4zmQ/128349.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A PANTERA COR-DE-ROSA
-http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31637?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31637?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A PEQUENA SEREIA
-http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31638?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31638?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A PEQUENA SEREIA
-http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31639?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31639?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A VACA E O FRANGO
-http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31641?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31641?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A vida moderna de Rocko HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/286065?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/286065?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E
-http://qqtv.nl:8080/masud/masud/26290?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://qqtv.nl:8080/masud/masud/26290?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E 4K FHDR
-http://cdn99.one:80/984854/6b4zmQ/90647.ts?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://cdn99.one:80/984854/6b4zmQ/90647.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E FHD
-http://cdn99.one:80/984854/6b4zmQ/71760.ts?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://cdn99.one:80/984854/6b4zmQ/71760.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E FHD [H265]
-http://cdn99.one:80/984854/6b4zmQ/71761.ts?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://cdn99.one:80/984854/6b4zmQ/71761.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E FULLHD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31268?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E HD
