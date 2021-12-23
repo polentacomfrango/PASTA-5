@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/0L5tCLH.png" group-title="Shop",1001 Noites t1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://iptvm3ulist.com/m3u/br01_iptvm3ulist_com_211221.m3u
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/0L5tCLH.png" group-title="Shop",1001 Noites t2
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=https://iptvm3ulist.com/m3u/br01_iptvm3ulist_com_211221.m3u
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",1001 Noites HD 1
