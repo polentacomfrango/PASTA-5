@@ -45,7 +45,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://list.iptvca
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E SD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://list.iptvcat.com/my_list/s/2a59bd7fa95b82a57231b4cb362e3880.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AGRO BRASIL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=BY_anubis;&amp;buffer=5000;url=http://168.205.87.198:8555/live/leila/123456/7.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=BY_anubis;&amp;url=http://168.205.87.198:8555/live/leila/123456/7.ts
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AGRO BRASIL
 http://168.205.87.198:8555/live/1111/123456/7.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AGRO BRASIL
