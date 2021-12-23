@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1, RedeTV! TV Arapuan HD (PB)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=anubis;&amp;buffer=5000;url=https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=anubis&amp;url=https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/0L5tCLH.png" group-title="Shop",1001 Noites
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]Anubis[/B][/COLOR]&amp;url=https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",1001 Noites HD
