@@ -1,70 +1,49 @@
 #EXTM3U
-#EXTINF:-1, RedeTV! TV Arapuan HD (PB)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=anubis&amp;url=https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/0L5tCLH.png" group-title="Shop",1001 Noites
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist.m3u8?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://list.iptvcat.com/my_list/s/f479cb6afae2deed32e71245aed3ca1b.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",1001 Noites HD
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/286064?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://list.iptvcat.com/my_list/s/f54615572ce47c5476bb8348203ee040.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/1hd.png" group-title="Music",1HD Music
-http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8?checkedby:iptvcat.com
+https://list.iptvcat.com/my_list/s/85fcb418e47439ad4a9215a441bd6cbc.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/94fm.png" group-title="Undefined",94 Atividade FM
-https://v8.ciclano.io:1443/anderson/_definst_/anderson/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A Fazenda 13 [Sinal 1] HD
-http://cdn99.one:80/984854/6b4zmQ/128601.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A Fazenda 13 [Sinal 2] HD
-http://cdn99.one:80/984854/6b4zmQ/128602.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A Fazenda 13 [Sinal 3] HD
-http://cdn99.one:80/984854/6b4zmQ/128603.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A Fazenda 13 [Sinal 4] HD
-http://cdn99.one:80/984854/6b4zmQ/128604.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A Fazenda 13 [Sinal 5] HD
-http://cdn99.one:80/984854/6b4zmQ/128605.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A Fazenda 13 [Sinal 6] HD
-http://cdn99.one:80/984854/6b4zmQ/128606.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A Fazenda 13 [Sinal 7] HD
-http://cdn99.one:80/984854/6b4zmQ/128607.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A Fazenda 13 [Sinal 8] HD
-http://cdn99.one:80/984854/6b4zmQ/128608.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A Fazenda 13 [Sinal Principal] HD
-http://cdn99.one:80/984854/6b4zmQ/128349.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A PANTERA COR-DE-ROSA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31637?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A PEQUENA SEREIA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31638?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A PEQUENA SEREIA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31639?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A VACA E O FRANGO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31641?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A vida moderna de Rocko HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/286065?checkedby:iptvcat.com
+https://list.iptvcat.com/my_list/s/b0132efbd0d28ccd722e8ad34375d0fd.m3u8
+
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_Anubis[/B][/COLOR]&amp;url=http://qqtv.nl:8080/masud/masud/26290?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Shop",A&E 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_Anubis[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/90647.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Shop",A&E FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_Anubis[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/71760.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Shop",A&E 1 [H265]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/71761.ts?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://list.iptvcat.com/my_list/s/5719f3c7e18583fc8fc351c4d9512392.m3u8
+
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://list.iptvcat.com/my_list/s/aa3ae165ae759e137a9c057d80483adb.m3u8
+
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://list.iptvcat.com/my_list/s/a4b6e0afbec43a78534863e182320712.m3u8
+
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://list.iptvcat.com/my_list/s/d475e1ac2aa6c93507cf450704a2f649.m3u8
+
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E FULLHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_Anubis[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31268?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://list.iptvcat.com/my_list/s/9942dccc0fd3d434ec7ac8f09dda859e.m3u8
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/94fm.png" group-title="Undefined",A&E HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://list.iptvcat.com/my_list/s/2e0ab70afd43d9b11d509c720ddb4e13.m3u8
+
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_Anubis[/B][/COLOR]&amp;url=http://livetv2021.site:8080/9897876765/6576567/6647?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://list.iptvcat.com/my_list/s/cd5d60493ec2ac50d039d1a8c9cca095.m3u8
+
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_Anubis[/B][/COLOR]&amp;url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbI8F49su8kGd026TTnsSsGT05M36PkwH1VGQS_F93_28/ts?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://list.iptvcat.com/my_list/s/5f6d33b984090451ec005a07d60bdfbf.m3u8
+
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_Anubis[/B][/COLOR]&amp;url=http://odenfull.co:2086/Mario0521/wBciOGSOgS/88925?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://list.iptvcat.com/my_list/s/79df0476df12642408dc4b9d5bd8ebe8.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E HD
-http://cdn99.one:80/984854/6b4zmQ/71762.ts?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://list.iptvcat.com/my_list/s/a0cf2004d68e934e4cd938a15611a95a.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_Anubis[/B][/COLOR]&amp;url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8816?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_Anubis[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/36034?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://list.iptvcat.com/my_list/s/1ea254c6c485965e6870e31c9798f862.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_Anubis[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/16691?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://list.iptvcat.com/my_list/s/6c1c37b3564db2bb9eaca6de592f440e.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_Anubis[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/71763.ts?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://list.iptvcat.com/my_list/s/2a59bd7fa95b82a57231b4cb362e3880.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AGRO BRASIL
-hplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_Anubis[/B][/COLOR]&amp;url=ttp://168.205.87.198:8555/live/leila/123456/7.ts?checkedby:iptvcat.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=BY_anubis;&amp;buffer=5000;url=http://168.205.87.198:8555/live/leila/123456/7.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AGRO BRASIL
 http://168.205.87.198:8555/live/1111/123456/7.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AGRO BRASIL
