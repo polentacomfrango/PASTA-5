@@ -1,4 +1,7 @@
 #EXTM3U
+
+#EXTINF:-1 ,ZOOMOO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://portal.entertainmentxl.com:8080/Xalet344164/XygK9RLuvr/3379
 #EXTINF:-1 ,ZOOMOO HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31504
 #EXTINF:-1 ,Zoomoo HD
