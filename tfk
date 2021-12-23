@@ -41,7 +41,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://qqtv.nl:8080
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://cdn99.one:80/984854/6b4zmQ/90647.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E FHD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://cdn99.one:80/984854/6b4zmQ/71760.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E FHD [H265]
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="filme",A&E FHD [H265]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://cdn99.one:80/984854/6b4zmQ/71761.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E FULLHD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31268?checkedby:iptvcat.com
