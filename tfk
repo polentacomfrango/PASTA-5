@@ -37,11 +37,11 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://xcui.vitvabc
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/286065?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://qqtv.nl:8080/masud/masud/26290?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E 4K FHDR
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Shop",A&E 4K FHDR
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://cdn99.one:80/984854/6b4zmQ/90647.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E FHD
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Shop",A&E FHD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://cdn99.one:80/984854/6b4zmQ/71760.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="filme",A&E FHD [H265]
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Shop",A&E FHD [H265]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://cdn99.one:80/984854/6b4zmQ/71761.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E FULLHD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31268?checkedby:iptvcat.com
