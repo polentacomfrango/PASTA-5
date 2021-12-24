@@ -1,69 +1,69 @@
 #EXTM3U
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/0L5tCLH.png" group-title="Shop",1001 Noites
+#EXTINF:-1 tvg-country="BR" tvg-logo="https://i.imgur.com/0L5tCLH.png" group-title="Shop",1001 Noites
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",1001 Noites HD
+#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Undefined",1001 Noites HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/286064
-#EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/1hd.png" group-title="Music",1HD Music
+#EXTINF:-1 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/1hd.png" group-title="Music",1HD Music
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/94fm.png" group-title="Undefined",94 Atividade FM
+#EXTINF:-1 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/94fm.png" group-title="Undefined",94 Atividade FM
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=https://v8.ciclano.io:1443/anderson/_definst_/anderson/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A PANTERA COR-DE-ROSA
+#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Undefined",A PANTERA COR-DE-ROSA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31637
-#EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/94fm.png" group-title="Undefined",A PEQUENA SEREIA
+#EXTINF:-1 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/94fm.png" group-title="Undefined",A PEQUENA SEREIA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31638
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A PEQUENA SEREIA
+#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Undefined",A PEQUENA SEREIA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31639
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A VACA E O FRANGO
+#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Undefined",A VACA E O FRANGO
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31641
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A vida moderna de Rocko HD
+#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Undefined",A vida moderna de Rocko HD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/286065
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E
+#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://qqtv.nl:8080/masud/masud/26290
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E 4K FHDR
+#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E 4K FHDR
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/90647.ts
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E FHD
+#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/71760.ts
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E FHD [H265]
+#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E FHD [H265]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/71761.ts
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E FULLHD
+#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E FULLHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31268
-#EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/94fm.png" group-title="Undefined",A&E HD
+#EXTINF:-1 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/94fm.png" group-title="Undefined",A&E HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://livetv2021.site:8080/9897876765/6576567/6647.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E HD
+#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbI8F49su8kGd026TTnsSsGT05M36PkwH1VGQS_F93_28/ts
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E HD
+#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://odenfull.co:2086/Mario0521/wBciOGSOgS/88925
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E HD
+#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/71762.ts
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E HD
+#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8816
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E HD
+#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/36034
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E HD+
+#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E HD+
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/16691
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E SD
+#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/71763.ts
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AGRO BRASIL
+#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Undefined",AGRO BRASIL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/leila/123456/7.ts
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AGRO BRASIL
+#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Undefined",AGRO BRASIL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1111/123456/7.ts
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AGRO BRASIL
+#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Undefined",AGRO BRASIL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/antony/1234/7.ts
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AGRO CANAL
+#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Undefined",AGRO CANAL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1111/123456/10.ts
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AGRO CANAL
+#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Undefined",AGRO CANAL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/leila/123456/10.ts
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AGRO CANAL
+#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Undefined",AGRO CANAL
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/antony/1234/10.ts
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",ALADDIN
+#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Undefined",ALADDIN
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31642
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ALL SPORTS
+#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Sport",ALL SPORTS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/1111/123456/148.ts
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ALL SPORTS
+#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Sport",ALL SPORTS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/leila/123456/148.ts
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ALL SPORTS
+#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Sport",ALL SPORTS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/antony/1234/148.ts
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ALL SPORTS HD
+#EXTINF:-1 tvg-country="BR" tvg-logo="" group-title="Sport",ALL SPORTS HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/7321
 #EXTINF:-1 ,ZOOMOO HD teste
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/71762.ts
