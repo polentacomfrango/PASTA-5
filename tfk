@@ -6,10 +6,10 @@ CANAIS ABERTOS
 
 BAND
 
-#EXTINF:-1 tvg-id="BAND" tvg-name="BAND " tvg-logo="https://i.ibb.co/345FZrv/band.png" group-title="ABERTOS",BAND SP
+#EXTINF:-1 tvg-id="BAND" tvg-name="BAND " tvg-logo="https://i.ibb.co/345FZrv/band.png" group-title="ABERTOS",BAND
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/16697
 
-#EXTINF:-1 tvg-id="BAND" tvg-name="BAND " tvg-logo="https://i.ibb.co/345FZrv/band.png" group-title="ABERTOS",BAND SP
+#EXTINF:-1 tvg-id="BAND" tvg-name="BAND " tvg-logo="https://i.ibb.co/345FZrv/band.png" group-title="ABERTOS",BAND
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://vipeiptv.com:25461/brian123/brian321/856507
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://i.ibb.co/345FZrv/band.png" group-title="ABERTOS",BAND 
@@ -60,23 +60,23 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet]
 
 RECORD
 
-#EXTINF:-1 tvg-id="RECORD HD" tvg-name="RECORD HD" tvg-logo="https://i.ibb.co/RbLf0JF/record.png" group-title="ABERTOS",RECORD HD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="RECORD HD" tvg-logo="https://i.ibb.co/RbLf0JF/record.png" group-title="ABERTOS",RECORD 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/35991
 
-#EXTINF:-1 tvg-id="RECORD HD " tvg-name="RECORD HD ALT" tvg-logo="https://i.ibb.co/RbLf0JF/record.png" group-title="ABERTOS",RECORD HD ALT
+#EXTINF:-1 tvg-id="RECORD HD " tvg-name="RECORD HD ALT" tvg-logo="https://i.ibb.co/RbLf0JF/record.png" group-title="ABERTOS",RECORD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/16748
 
 
-#EXTINF:-1 tvg-id="RECORD HD " tvg-name="RECORD HD ALT" tvg-logo="https://i.ibb.co/RbLf0JF/record.png" group-title="ABERTOS",RECORD HD 
+#EXTINF:-1 tvg-id="RECORD HD " tvg-name="RECORD HD ALT" tvg-logo="https://i.ibb.co/RbLf0JF/record.png" group-title="ABERTOS",RECORD 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/36089
 
-#EXTINF:-1 tvg-id="RECORD HD " tvg-name="RECORD HD ALT" tvg-logo="https://i.ibb.co/RbLf0JF/record.png" group-title="ABERTOS",RECORD 4k
+#EXTINF:-1 tvg-id="RECORD HD " tvg-name="RECORD HD ALT" tvg-logo="https://i.ibb.co/RbLf0JF/record.png" group-title="ABERTOS",RECORD 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31043
 
-#EXTINF:-1 tvg-id="RECORD HD ALT" tvg-name="RECORD HD ALT" tvg-logo="https://i.ibb.co/RbLf0JF/record.png" group-title="ABERTOS",RECORD HD 
+#EXTINF:-1 tvg-id="RECORD HD ALT" tvg-name="RECORD HD ALT" tvg-logo="https://i.ibb.co/RbLf0JF/record.png" group-title="ABERTOS",RECORD 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31569
 
-#EXTINF:-1 tvg-id="RECORD HD ALT" tvg-name="RECORD HD ALT" tvg-logo="https://i.ibb.co/RbLf0JF/record.png" group-title="ABERTOS",RECORD HD ALT
+#EXTINF:-1 tvg-id="RECORD HD ALT" tvg-name="RECORD HD ALT" tvg-logo="https://i.ibb.co/RbLf0JF/record.png" group-title="ABERTOS",RECORD 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://vipeiptv.com:25461/brian123/brian321/856523
 
 
@@ -337,31 +337,6 @@ http://rec2.distv.net:80/pedro1/pedro1/154
 
 
 
-
-
-
-LOADING
-
-#EXTINF:-1 tvg-id="LOADING" tvg-name="LOADING" tvg-logo="https://i.ibb.co/TTtqsG3/LOGO-LOADING.png" group-title="INFANTIL",LOADING
-https://akamai.gcp.br.cdn.booyah.live/hls/151073/34850987_1080.m3u8
-
-#EXTINF:-1 tvg-id="LOADING" tvg-name="LOADING" tvg-logo="https://i.ibb.co/TTtqsG3/LOGO-LOADING.png" group-title="INFANTIL",LOADING
-https://centurylink.gcp.br.cdn.booyah.live/hls/151073/34850987_1080.m3u8
-
-
-#EXTINF:-1 tvg-id="LOADING" tvg-name="LOADING" tvg-logo="https://i.ibb.co/TTtqsG3/LOGO-LOADING.png" group-title="INFANTIL",LOADING
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460629.m3u8
-
-
-#EXTINF:-1 tvg-id="LOADING" tvg-name="LOADING" tvg-logo="https://i.ibb.co/TTtqsG3/LOGO-LOADING.png" group-title="INFANTIL",LOADING
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460630.m3u8
-
-#EXTINF:-1 tvg-id="LOADING" tvg-name="LOADING" tvg-logo="https://i.ibb.co/TTtqsG3/LOGO-LOADING.png" group-title="INFANTIL",LOADING
-http://srvtv.online:2082/Altair567/356738473/21870
-
-
-
-
 NICK JR
 
 #EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="https://i.ibb.co/gg30Brg/NICK-JR.png" group-title="INFANTIL",NICK JR
@@ -388,13 +363,12 @@ NICKELODEON
 #EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://i.ibb.co/6WXDgTy/NICKELODEON.png" group-title="INFANTIL",NICKELODEON
 http://dns.fastuhd.online:80/04286291/69978869/173620
 
-#EXTINF:-1 tvg-id="NICKELODEON ALT" tvg-name="NICKELODEON ALT" tvg-logo="https://i.ibb.co/6WXDgTy/NICKELODEON.png" group-title="INFANTIL",NICKELODEON ALT
-http://dns.fastuhd.online:80/04286291/69978869/173621
+#EXTINF:-1 tvg-id="NICKELODEON ALT" tvg-name="NICKELODEON ALT" tvg-logo="https://i.ibb.co/6WXDgTy/NICKELODEON.png" group-title="INFANTIL",NICKELODEON 
 
-#EXTINF:-1 tvg-id="NICKELODEON ALT" tvg-name="NICKELODEON ALT" tvg-logo="https://i.ibb.co/6WXDgTy/NICKELODEON.png" group-title="INFANTIL",NICKELODEON ALT
+#EXTINF:-1 tvg-id="NICKELODEON ALT" tvg-name="NICKELODEON ALT" tvg-logo="https://i.ibb.co/6WXDgTy/NICKELODEON.png" group-title="INFANTIL",NICKELODEON 
 http://dns.fastuhd.online:80/04286291/69978869/173632
 
-#EXTINF:-1 tvg-id="NICKELODEON ALT" tvg-name="NICKELODEON ALT" tvg-logo="https://i.ibb.co/6WXDgTy/NICKELODEON.png" group-title="INFANTIL",NICKELODEON ALT
+#EXTINF:-1 tvg-id="NICKELODEON ALT" tvg-name="NICKELODEON ALT" tvg-logo="https://i.ibb.co/6WXDgTy/NICKELODEON.png" group-title="INFANTIL",NICKELODEON 
 http://b5.vc:80/live/7885037935/fireurl.co/72208.ts
 
 #EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://i.ibb.co/6WXDgTy/NICKELODEON.png" group-title="INFANTIL",NICKELODEON
@@ -420,10 +394,10 @@ http://dns.fastuhd.online:80/04286291/69978869/173624
 #EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="https://i.ibb.co/XDhHRxF/tooncast.png" group-title="INFANTIL",TOONCAST
 http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460914.m3u8
 
-#EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="https://i.ibb.co/XDhHRxF/tooncast.png" group-title="INFANTIL",TOONCAST FHD
+#EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="https://i.ibb.co/XDhHRxF/tooncast.png" group-title="INFANTIL",TOONCAST
 http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460912.m3u8
 
-#EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="https://i.ibb.co/XDhHRxF/tooncast.png" group-title="INFANTIL",TOONCAST FHD
+#EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="https://i.ibb.co/XDhHRxF/tooncast.png" group-title="INFANTIL",TOONCAST
 http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460911.m3u8
 
 
@@ -460,10 +434,10 @@ ANIMAL PLANET
 #EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET" tvg-logo="https://i.ibb.co/ZG4w6DP/LOGO-ANIMAL-PLANET.png" group-title="DOCUMENTARIOS",ANIMAL PLANET
 http://dns.fastuhd.online:80/04286291/69978869/173419
 
-#EXTINF:-1 tvg-id="ANIMAL PLANET ALT" tvg-name="ANIMAL PLANET ALT" tvg-logo="https://i.ibb.co/ZG4w6DP/LOGO-ANIMAL-PLANET.png" group-title="DOCUMENTARIOS",ANIMAL PLANET ALT
+#EXTINF:-1 tvg-id="ANIMAL PLANET ALT" tvg-name="ANIMAL PLANET ALT" tvg-logo="https://i.ibb.co/ZG4w6DP/LOGO-ANIMAL-PLANET.png" group-title="DOCUMENTARIOS",ANIMAL PLANET 
 http://dns.fastuhd.online:80/04286291/69978869/173418
 
-#EXTINF:-1 tvg-id="ANIMAL PLANET ALT 2" tvg-name="ANIMAL PLANET ALT 2" tvg-logo="https://i.ibb.co/ZG4w6DP/LOGO-ANIMAL-PLANET.png" group-title="DOCUMENTARIOS",ANIMAL PLANET ALT 2
+#EXTINF:-1 tvg-id="ANIMAL PLANET ALT 2" tvg-name="ANIMAL PLANET ALT 2" tvg-logo="https://i.ibb.co/ZG4w6DP/LOGO-ANIMAL-PLANET.png" group-title="DOCUMENTARIOS",ANIMAL PLANET
 http://dns.fastuhd.online:80/04286291/69978869/173417
 
 #EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET" tvg-logo="https://i.ibb.co/ZG4w6DP/LOGO-ANIMAL-PLANET.png" group-title="DOCUMENTARIOS",ANIMAL PLANET
@@ -483,7 +457,7 @@ DISCOVERY CHANNEL
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.ibb.co/c1jG42h/DISCOVERY-CHANNEL.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL
 http://b5.vc:80/live/7885037935/fireurl.co/71864.ts
 
-#EXTINF:-1 tvg-id="DISCOVERY CHANNEL HD ALT" tvg-name="DISCOVERY CHANNEL ALT" tvg-logo="https://i.ibb.co/c1jG42h/DISCOVERY-CHANNEL.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL ALT
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.ibb.co/c1jG42h/DISCOVERY-CHANNEL.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL 
 http://b5.vc:80/live/7885037935/fireurl.co/71862.ts
 
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.ibb.co/c1jG42h/DISCOVERY-CHANNEL.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL
@@ -522,14 +496,14 @@ http://noah.tvdns.tech:80/live/claudiofera/Fera2021/358998.m3u8
 
 NATIONAL GEOGRAPHIC
 
-#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://i.ibb.co/Nmxz5XG/NATIONAL-GEOGRAPHIC.png" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC FHD
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://i.ibb.co/Nmxz5XG/NATIONAL-GEOGRAPHIC.png" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC
 
 http://b5.vc:80/live/7885037935/fireurl.co/72198.ts
 
-#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC ALT" tvg-name="NATIONAL GEOGRAPHIC ALT" tvg-logo="https://i.ibb.co/Nmxz5XG/NATIONAL-GEOGRAPHIC.png" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC ALT
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC ALT" tvg-name="NATIONAL GEOGRAPHIC ALT" tvg-logo="https://i.ibb.co/Nmxz5XG/NATIONAL-GEOGRAPHIC.png" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC 
 http://b5.vc:80/live/7885037935/fireurl.co/72196.ts
 
-#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC ALT 2" tvg-name="NATIONAL GEOGRAPHIC ALT 2" tvg-logo="https://i.ibb.co/Nmxz5XG/NATIONAL-GEOGRAPHIC.png" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC ALT 2
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC ALT 2" tvg-name="NATIONAL GEOGRAPHIC ALT 2" tvg-logo="https://i.ibb.co/Nmxz5XG/NATIONAL-GEOGRAPHIC.png" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC
 http://b5.vc:80/live/7885037935/fireurl.co/72197.ts
 
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://i.ibb.co/Nmxz5XG/NATIONAL-GEOGRAPHIC.png" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC
@@ -547,7 +521,7 @@ DISCOVERY HOME AND HEALTH
 #EXTINF:-1 tvg-id="DISCOVERY HOME AND HEALTH" tvg-name="DISCOVERY HOME AND HEALTH" tvg-logo="https://i.ibb.co/f1Drwjb/DISCOVERY-HOME-AND-HALF.png" group-title="DOCUMENTARIOS",DISCOVERY HOME AND HEALTH
 http://b5.vc:80/live/7885037935/fireurl.co/90251.ts
 
-#EXTINF:-1 tvg-id="DISCOVERY HOME AND HEALTH" tvg-name="DISCOVERY HOME AND HEALTH" tvg-logo="https://i.ibb.co/f1Drwjb/DISCOVERY-HOME-AND-HALF.png" group-title="DOCUMENTARIOS",DISCOVERY HOME AND HEALTH FHD
+#EXTINF:-1 tvg-id="DISCOVERY HOME AND HEALTH" tvg-name="DISCOVERY HOME AND HEALTH" tvg-logo="https://i.ibb.co/f1Drwjb/DISCOVERY-HOME-AND-HALF.png" group-title="DOCUMENTARIOS",DISCOVERY HOME AND HEALTH 
 http://b5.vc:80/live/7885037935/fireurl.co/71867.ts
 
 
@@ -568,16 +542,16 @@ http://noah.tvdns.tech:80/live/claudiofera/Fera2021/358941.m3u8
 
 DISCOVERY SCIENCE
 
-#EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://i.ibb.co/tc7T9kk/DISCOVERY-SCIENCE.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE FHD
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://i.ibb.co/tc7T9kk/DISCOVERY-SCIENCE.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE 
 http://b5.vc:80/live/7885037935/fireurl.co/71875.ts
 
-#EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://i.ibb.co/tc7T9kk/DISCOVERY-SCIENCE.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE FHD
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://i.ibb.co/tc7T9kk/DISCOVERY-SCIENCE.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE
 http://b5.vc:80/live/7885037935/fireurl.co/71876.ts
 
 #EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://i.ibb.co/tc7T9kk/DISCOVERY-SCIENCE.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE
 http://b5.vc:80/live/7885037935/fireurl.co/71877.ts
 
-#EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://i.ibb.co/tc7T9kk/DISCOVERY-SCIENCE.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE FHD
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://i.ibb.co/tc7T9kk/DISCOVERY-SCIENCE.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE 
 http://b5.vc:80/live/7885037935/fireurl.co/71878.ts
 
 #EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://i.ibb.co/tc7T9kk/DISCOVERY-SCIENCE.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE
@@ -590,10 +564,10 @@ http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359105.m3u8
 
 DISCOVERY TURBO
 
-#EXTINF:-1 tvg-id="DISCOVERY TURBO" tvg-name="DISCOVERY TURBO" tvg-logo="https://i.ibb.co/RCHyx5y/DISCOVERY-TURBO.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO FHD
+#EXTINF:-1 tvg-id="DISCOVERY TURBO" tvg-name="DISCOVERY TURBO" tvg-logo="https://i.ibb.co/RCHyx5y/DISCOVERY-TURBO.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO 
 http://b5.vc:80/live/7885037935/fireurl.co/90641.ts
 
-#EXTINF:-1 tvg-id="DISCOVERY TURBO ALT" tvg-name="DISCOVERY TURBO ALT" tvg-logo="https://i.ibb.co/RCHyx5y/DISCOVERY-TURBO.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO ALT FHD
+#EXTINF:-1 tvg-id="DISCOVERY TURBO ALT" tvg-name="DISCOVERY TURBO ALT" tvg-logo="https://i.ibb.co/RCHyx5y/DISCOVERY-TURBO.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO 
 http://b5.vc:80/live/7885037935/fireurl.co/71883.ts
 
 #EXTINF:-1 tvg-id="DISCOVERY TURBO" tvg-name="DISCOVERY TURBO" tvg-logo="https://i.ibb.co/RCHyx5y/DISCOVERY-TURBO.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO
@@ -612,13 +586,13 @@ http://pfsv.io:80/23136533/3672/30257
 
 HISTORY CHANNEL
 
-#EXTINF:-1 tvg-id="HISTORY CHANNEL" tvg-name="HISTORY CHANNEL" tvg-logo="https://i.ibb.co/f1H5jDg/HISTORY.png" group-title="DOCUMENTARIOS",HISTORY CHANNEL FHD
+#EXTINF:-1 tvg-id="HISTORY CHANNEL" tvg-name="HISTORY CHANNEL" tvg-logo="https://i.ibb.co/f1H5jDg/HISTORY.png" group-title="DOCUMENTARIOS",HISTORY CHANNEL 
 http://b5.vc:80/live/7885037935/fireurl.co/90244.ts
 
-#EXTINF:-1 tvg-id="HISTORY CHANNEL ALT" tvg-name="HISTORY CHANNEL ALT" tvg-logo="https://i.ibb.co/f1H5jDg/HISTORY.png" group-title="DOCUMENTARIOS",HISTORY CHANNEL ALT
+#EXTINF:-1 tvg-id="HISTORY CHANNEL ALT" tvg-name="HISTORY CHANNEL ALT" tvg-logo="https://i.ibb.co/f1H5jDg/HISTORY.png" group-title="DOCUMENTARIOS",HISTORY CHANNEL 
 http://b5.vc:80/live/7885037935/fireurl.co/72146.ts
 
-#EXTINF:-1 tvg-id="HISTORY CHANNEL ALT" tvg-name="HISTORY CHANNEL ALT" tvg-logo="https://i.ibb.co/f1H5jDg/HISTORY.png" group-title="DOCUMENTARIOS",HISTORY CHANNEL ALT
+#EXTINF:-1 tvg-id="HISTORY CHANNEL ALT" tvg-name="HISTORY CHANNEL ALT" tvg-logo="https://i.ibb.co/f1H5jDg/HISTORY.png" group-title="DOCUMENTARIOS",HISTORY CHANNEL 
 http://b5.vc:80/live/7885037935/fireurl.co/72147.ts
 
 #EXTINF:-1 tvg-id="HISTORY CHANNEL" tvg-name="HISTORY CHANNEL" tvg-logo="https://i.ibb.co/f1H5jDg/HISTORY.png" group-title="DOCUMENTARIOS",HISTORY CHANNEL
@@ -634,10 +608,10 @@ http://dns.velox4k.tech:2082/6893910914/6615263741/3964
 
 HISTORY 2
 
-#EXTINF:-1 tvg-id="HISTORY 2" tvg-name="HISTORY 2" tvg-logo="https://i.ibb.co/6rKSsQ5/HISTORY-2.png" group-title="DOCUMENTARIOS",HISTORY 2 FHD
+#EXTINF:-1 tvg-id="HISTORY 2" tvg-name="HISTORY 2" tvg-logo="https://i.ibb.co/6rKSsQ5/HISTORY-2.png" group-title="DOCUMENTARIOS",HISTORY 2 
 http://noah.tvdns.tech:80/live/claudiofera/Fera2021/358803.m3u8
 
-#EXTINF:-1 tvg-id="HISTORY 2 ALT" tvg-name="HISTORY 2 ALT" tvg-logo="https://i.ibb.co/6rKSsQ5/HISTORY-2.png" group-title="DOCUMENTARIOS",HISTORY 2 ALT
+#EXTINF:-1 tvg-id="HISTORY 2 ALT" tvg-name="HISTORY 2 ALT" tvg-logo="https://i.ibb.co/6rKSsQ5/HISTORY-2.png" group-title="DOCUMENTARIOS",HISTORY 2
 http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359130.m3u8
 
 #EXTINF:-1 tvg-id="HISTORY 2" tvg-name="HISTORY 2" tvg-logo="https://i.ibb.co/6rKSsQ5/HISTORY-2.png" group-title="DOCUMENTARIOS",HISTORY 2
@@ -660,10 +634,10 @@ INVESTIGAÇÃO DISCOVERY
 #EXTINF:-1 tvg-id="INVESTIGAÇÃO DISCOVERY" tvg-name="INVESTIGAÇÃO DISCOVERY" tvg-logo="https://i.ibb.co/vwMgf9w/ID.png" group-title="DOCUMENTARIOS",INVESTIGAÇÃO DISCOVERY
 http://b5.vc:80/live/7885037935/fireurl.co/90243.ts
 
-#EXTINF:-1 tvg-id="INVESTIGAÇÃO DISCOVERY ALT" tvg-name="INVESTIGAÇÃO DISCOVERY ALT" tvg-logo="https://i.ibb.co/vwMgf9w/ID.png" group-title="DOCUMENTARIOS",INVESTIGAÇÃO DISCOVERY ALT
+#EXTINF:-1 tvg-id="INVESTIGAÇÃO DISCOVERY ALT" tvg-name="INVESTIGAÇÃO DISCOVERY ALT" tvg-logo="https://i.ibb.co/vwMgf9w/ID.png" group-title="DOCUMENTARIOS",INVESTIGAÇÃO DISCOVERY 
 http://b5.vc:80/live/7885037935/fireurl.co/72150.ts
 
-#EXTINF:-1 tvg-id="INVESTIGAÇÃO DISCOVERY" tvg-name="INVESTIGAÇÃO DISCOVERY" tvg-logo="https://i.ibb.co/vwMgf9w/ID.png" group-title="DOCUMENTARIOS",INVESTIGAÇÃO DISCOVERY FHD
+#EXTINF:-1 tvg-id="INVESTIGAÇÃO DISCOVERY" tvg-name="INVESTIGAÇÃO DISCOVERY" tvg-logo="https://i.ibb.co/vwMgf9w/ID.png" group-title="DOCUMENTARIOS",INVESTIGAÇÃO DISCOVERY 
 http://b5.vc:80/live/7885037935/fireurl.co/72151.ts
 
 #EXTINF:-1 tvg-id="INVESTIGAÇÃO DISCOVERY" tvg-name="INVESTIGAÇÃO DISCOVERY" tvg-logo="https://i.ibb.co/vwMgf9w/ID.png" group-title="DOCUMENTARIOS",INVESTIGAÇÃO DISCOVERY
@@ -682,17 +656,17 @@ TLC
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://i.ibb.co/8MYTt27/TLC.png" group-title="DOCUMENTARIOS",TLC
 http://b5.vc:80/live/7885037935/fireurl.co/72371.ts
 
-#EXTINF:-1 tvg-id="TLC ALT" tvg-name="TLC ALT" tvg-logo="https://i.ibb.co/8MYTt27/TLC.png" group-title="DOCUMENTARIOS",TLC ALT
+#EXTINF:-1 tvg-id="TLC ALT" tvg-name="TLC ALT" tvg-logo="https://i.ibb.co/8MYTt27/TLC.png" group-title="DOCUMENTARIOS",TLC 
 http://b5.vc:80/live/7885037935/fireurl.co/72372.ts
 
-#EXTINF:-1 tvg-id="TLC ALT" tvg-name="TLC ALT" tvg-logo="https://i.ibb.co/8MYTt27/TLC.png" group-title="DOCUMENTARIOS",TLC ALT
+#EXTINF:-1 tvg-id="TLC ALT" tvg-name="TLC ALT" tvg-logo="https://i.ibb.co/8MYTt27/TLC.png" group-title="DOCUMENTARIOS",TLC 
 http://rec2.distv.net:80/pedro1/pedro1/200
 
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://i.ibb.co/8MYTt27/TLC.png" group-title="DOCUMENTARIOS",TLC
 http://b5.vc:80/live/7885037935/fireurl.co/72373.ts
 
-#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://i.ibb.co/8MYTt27/TLC.png" group-title="DOCUMENTARIOS",TLC FHD
-http://b5.vc:80/live/7885037935/fireurl.co/72374.ts
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://i.ibb.co/8MYTt27/TLC.png" group-title="DOCUMENTARIOS",TLC 
+http://b5.vc:80/live/7885037935/fireurl.co/72374.
 
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://i.ibb.co/8MYTt27/TLC.png" group-title="DOCUMENTARIOS",TLC
 http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460896.m3u8
@@ -788,7 +762,7 @@ CINEMAX
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://i.ibb.co/fHJTZ8K/CINEMAX.png" group-title="FILMES",CINEMAX
 http://dns.fastuhd.online:80/04286291/69978869/173116
 
-#EXTINF:-1 tvg-id="CINEMAX ALT" tvg-name="CINEMAX ALT" tvg-logo="https://i.ibb.co/fHJTZ8K/CINEMAX.png" group-title="FILMES",CINEMAX ALT 
+#EXTINF:-1 tvg-id="CINEMAX ALT" tvg-name="CINEMAX ALT" tvg-logo="https://i.ibb.co/fHJTZ8K/CINEMAX.png" group-title="FILMES",CINEMAX  
 http://dns.fastuhd.online:80/04286291/69978869/173117
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://i.ibb.co/fHJTZ8K/CINEMAX.png" group-title="FILMES",CINEMAX
@@ -809,13 +783,13 @@ DISCOVERY THEATER
 http://b5.vc:80/live/7885037935/fireurl.co/71879.ts
 
 
-#EXTINF:-1 tvg-id="DISCOVERY THEATER ALT" tvg-name="DISCOVERY THEATER ALT" tvg-logo="https://i.ibb.co/2YXwt2F/DISCOVERY-TEATHER.png" group-title="FILMES",DISCOVERY THEATER ALT
+#EXTINF:-1 tvg-id="DISCOVERY THEATER ALT" tvg-name="DISCOVERY THEATER ALT" tvg-logo="https://i.ibb.co/2YXwt2F/DISCOVERY-TEATHER.png" group-title="FILMES",DISCOVERY THEATER 
 http://b5.vc:80/live/7885037935/fireurl.co/71880.ts
 
 #EXTINF:-1 tvg-id="DISCOVERY THEATER" tvg-name="DISCOVERY THEATER" tvg-logo="https://i.ibb.co/2YXwt2F/DISCOVERY-TEATHER.png" group-title="FILMES",DISCOVERY THEATER
 http://b5.vc:80/live/7885037935/fireurl.co/71881.ts
 
-#EXTINF:-1 tvg-id="DISCOVERY THEATER" tvg-name="DISCOVERY THEATER" tvg-logo="https://i.ibb.co/2YXwt2F/DISCOVERY-TEATHER.png" group-title="FILMES",DISCOVERY THEATER FHD
+#EXTINF:-1 tvg-id="DISCOVERY THEATER" tvg-name="DISCOVERY THEATER" tvg-logo="https://i.ibb.co/2YXwt2F/DISCOVERY-TEATHER.png" group-title="FILMES",DISCOVERY THEATER 
 http://b5.vc:80/live/7885037935/fireurl.co/71882.ts
 
 #EXTINF:-1 tvg-id="DISCOVERY THEATER" tvg-name="DISCOVERY THEATER" tvg-logo="https://i.ibb.co/2YXwt2F/DISCOVERY-TEATHER.png" group-title="FILMES",DISCOVERY THEATER
@@ -828,7 +802,7 @@ http://srvtv.online:2082/Altair567/356738473/3950
 
 FILM & ARTS
 
-#EXTINF:-1 tvg-id="FILM & ARTS" tvg-name="FILM & ARTS" tvg-logo="https://i.ibb.co/ngBC43K/film-e-arts.png" group-title="FILMES",FILM & ARTS HD
+#EXTINF:-1 tvg-id="FILM & ARTS" tvg-name="FILM & ARTS" tvg-logo="https://i.ibb.co/ngBC43K/film-e-arts.png" group-title="FILMES",FILM & ARTS 
 http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460371.m3u8
 
 #EXTINF:-1 tvg-id="FILM & ARTS" tvg-name="FILM & ARTS" tvg-logo="https://i.ibb.co/ngBC43K/film-e-arts.png" group-title="FILMES",FILM & ARTS
@@ -875,7 +849,7 @@ http://rec2.distv.net:80/pedro1/pedro1/148
 
 STAR LIFE
 
-#EXTINF:-1 tvg-id="STAR LIFE" tvg-name="STAR LIFE" tvg-logo="https://i.ibb.co/GTQGwpy/star-life.png" group-title="FILMES",STAR LIFE FHD
+#EXTINF:-1 tvg-id="STAR LIFE" tvg-name="STAR LIFE" tvg-logo="https://i.ibb.co/GTQGwpy/star-life.png" group-title="FILMES",STAR LIFE 
 http://b5.vc:80/live/7885037935/fireurl.co/71939.ts
 
 #EXTINF:-1 tvg-id="STAR LIFE" tvg-name="STAR LIFE" tvg-logo="https://i.ibb.co/GTQGwpy/star-life.png" group-title="FILMES",STAR LIFE
@@ -921,7 +895,7 @@ FX
 #EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://i.ibb.co/Bw1sR8f/fx.png" group-title="FILMES",FX
 http://b5.vc:80/live/7885037935/fireurl.co/90639.ts
 
-#EXTINF:-1 tvg-id="FX ALT" tvg-name="FX ALT" tvg-logo="https://i.ibb.co/Bw1sR8f/fx.png" group-title="FILMES",FX ALT
+#EXTINF:-1 tvg-id="FX ALT" tvg-name="FX ALT" tvg-logo="https://i.ibb.co/Bw1sR8f/fx.png" group-title="FILMES",FX 
 http://b5.vc:80/live/7885037935/fireurl.co/71966.ts
 
 #EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://i.ibb.co/Bw1sR8f/fx.png" group-title="FILMES",FX
@@ -943,7 +917,7 @@ HBO
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://i.ibb.co/ydq1Srv/hbo.png" group-title="FILMES",HBO
 http://b5.vc:80/live/7885037935/fireurl.co/72118.ts
 
-#EXTINF:-1 tvg-id="HBO ALT" tvg-name="HBO ALT" tvg-logo="https://i.ibb.co/ydq1Srv/hbo.png" group-title="FILMES",HBO ALT
+#EXTINF:-1 tvg-id="HBO ALT" tvg-name="HBO ALT" tvg-logo="https://i.ibb.co/ydq1Srv/hbo.png" group-title="FILMES",HBO 
 http://b5.vc:80/live/7885037935/fireurl.co/72119.ts
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://i.ibb.co/ydq1Srv/hbo.png" group-title="FILMES",HBO
@@ -956,19 +930,19 @@ http://b5.vc:80/live/7885037935/fireurl.co/72133.ts
 http://b5.vc:80/live/7885037935/fireurl.co/90696.ts
 
 
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://i.ibb.co/ydq1Srv/hbo.png" group-title="FILMES",HBO FHD
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://i.ibb.co/ydq1Srv/hbo.png" group-title="FILMES",HBO 
 http://noah.tvdns.tech:80/live/claudiofera/Fera2021/358805.m3u8
 
 
 HBO 2
 
-#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="https://i.ibb.co/3y5sX70/HBO-2.png" group-title="FILMES",HBO 2 FHD
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="https://i.ibb.co/3y5sX70/HBO-2.png" group-title="FILMES",HBO 2 
 http://b5.vc:80/live/7885037935/fireurl.co/90246.ts
 
-#EXTINF:-1 tvg-id="HBO 2 ALT" tvg-name="HBO 2 ALT" tvg-logo="https://i.ibb.co/3y5sX70/HBO-2.png" group-title="FILMES",HBO 2 ALT
+#EXTINF:-1 tvg-id="HBO 2 ALT" tvg-name="HBO 2 ALT" tvg-logo="https://i.ibb.co/3y5sX70/HBO-2.png" group-title="FILMES",HBO 2 
 http://b5.vc:80/live/7885037935/fireurl.co/72110.ts
 
-#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="https://i.ibb.co/3y5sX70/HBO-2.png" group-title="FILMES",HBO 2 FHD
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="https://i.ibb.co/3y5sX70/HBO-2.png" group-title="FILMES",HBO 2 
 http://b5.vc:80/live/7885037935/fireurl.co/72111.ts
 
 #EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="https://i.ibb.co/3y5sX70/HBO-2.png" group-title="FILMES",HBO 2
@@ -1009,7 +983,7 @@ HBO MUNDY
 #EXTINF:-1 tvg-id="HBO MUNDY" tvg-name="HBO MUNDY" tvg-logo="https://i.ibb.co/p3TGp96/hbo-mundy.png" group-title="FILMES",HBO MUNDY
 http://b5.vc:80/live/7885037935/fireurl.co/72121.ts
 
-#EXTINF:-1 tvg-id="HBO MUNDY ALT" tvg-name="HBO MUNDY ALT" tvg-logo="https://i.ibb.co/p3TGp96/hbo-mundy.png" group-title="FILMES",HBO MUNDY ALT FHD
+#EXTINF:-1 tvg-id="HBO MUNDY ALT" tvg-name="HBO MUNDY ALT" tvg-logo="https://i.ibb.co/p3TGp96/hbo-mundy.png" group-title="FILMES",HBO MUNDY 
 http://b5.vc:80/live/7885037935/fireurl.co/72122.ts
 
 #EXTINF:-1 tvg-id="HBO MUNDY" tvg-name="HBO MUNDY" tvg-logo="https://i.ibb.co/p3TGp96/hbo-mundy.png" group-title="FILMES",HBO MUNDY
@@ -1052,7 +1026,7 @@ HBO POP
 #EXTINF:-1 tvg-id="HBO POP" tvg-name="HBO POP" tvg-logo="https://i.ibb.co/4SyfJQz/hbo-pop.png" group-title="FILMES",HBO POP
 http://b5.vc:80/live/7885037935/fireurl.co/72129.ts
 
-#EXTINF:-1 tvg-id="HBO POP ALT" tvg-name="HBO POP ALT" tvg-logo="https://i.ibb.co/4SyfJQz/hbo-pop.png" group-title="FILMES",HBO POP ALT
+#EXTINF:-1 tvg-id="HBO POP ALT" tvg-name="HBO POP ALT" tvg-logo="https://i.ibb.co/4SyfJQz/hbo-pop.png" group-title="FILMES",HBO POP 
 http://b5.vc:80/live/7885037935/fireurl.co/72130.ts
 
 #EXTINF:-1 tvg-id="HBO POP" tvg-name="HBO POP" tvg-logo="https://i.ibb.co/4SyfJQz/hbo-pop.png" group-title="FILMES",HBO POP
@@ -1074,10 +1048,10 @@ HBO SIGNATURE
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://i.ibb.co/9ZLNsJD/HBO-SIGNATURE.png" group-title="FILMES",HBO SIGNATURE
 http://b5.vc:80/live/7885037935/fireurl.co/72134.ts
 
-#EXTINF:-1 tvg-id="HBO SIGNATURE ALT" tvg-name="HBO SIGNATURE ALT" tvg-logo="https://i.ibb.co/9ZLNsJD/HBO-SIGNATURE.png" group-title="FILMES",HBO SIGNATURE ALT
+#EXTINF:-1 tvg-id="HBO SIGNATURE ALT" tvg-name="HBO SIGNATURE ALT" tvg-logo="https://i.ibb.co/9ZLNsJD/HBO-SIGNATURE.png" group-title="FILMES",HBO SIGNATURE 
 http://b5.vc:80/live/7885037935/fireurl.co/72135.ts
 
-#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://i.ibb.co/9ZLNsJD/HBO-SIGNATURE.png" group-title="FILMES",HBO SIGNATURE FHD
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://i.ibb.co/9ZLNsJD/HBO-SIGNATURE.png" group-title="FILMES",HBO SIGNATURE 
 http://b5.vc:80/live/7885037935/fireurl.co/72136.ts
 
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://i.ibb.co/9ZLNsJD/HBO-SIGNATURE.png" group-title="FILMES",HBO SIGNATURE
@@ -1095,7 +1069,7 @@ HBO EXTREME
 #EXTINF:-1 tvg-id="HBO EXTREME" tvg-name="HBO EXTREME" tvg-logo="https://i.ibb.co/dP7jVKW/hbo-xtreme.png" group-title="FILMES",HBO EXTREME
 http://b5.vc:80/live/7885037935/fireurl.co/90636.ts
 
-#EXTINF:-1 tvg-id="HBO EXTREME ALT" tvg-name="HBO EXTREME ALT" tvg-logo="https://i.ibb.co/dP7jVKW/hbo-xtreme.png" group-title="FILMES",HBO EXTREME ALT
+#EXTINF:-1 tvg-id="HBO EXTREME ALT" tvg-name="HBO EXTREME ALT" tvg-logo="https://i.ibb.co/dP7jVKW/hbo-xtreme.png" group-title="FILMES",HBO EXTREME 
 http://b5.vc:80/live/7885037935/fireurl.co/72138.ts
 
 #EXTINF:-1 tvg-id="HBO EXTREME" tvg-name="HBO EXTREME" tvg-logo="https://i.ibb.co/dP7jVKW/hbo-xtreme.png" group-title="FILMES",HBO EXTREME
@@ -1139,7 +1113,7 @@ MEGA PIX
 #EXTINF:-1 tvg-id="MEGA PIX" tvg-name="MEGA PIX" tvg-logo="https://i.ibb.co/TkH7W0G/MEGA-PIX.png" group-title="FILMES",MEGA PIX
 http://b5.vc:80/live/7885037935/fireurl.co/72168.ts
 
-#EXTINF:-1 tvg-id="MEGA PIX ALT" tvg-name="MEGA PIX ALT" tvg-logo="https://i.ibb.co/TkH7W0G/MEGA-PIX.png" group-title="FILMES",MEGA PIX ALT
+#EXTINF:-1 tvg-id="MEGA PIX ALT" tvg-name="MEGA PIX ALT" tvg-logo="https://i.ibb.co/TkH7W0G/MEGA-PIX.png" group-title="FILMES",MEGA PIX 
 http://b5.vc:80/live/7885037935/fireurl.co/72166.ts
 
 #EXTINF:-1 tvg-id="MEGA PIX" tvg-name="MEGA PIX" tvg-logo="https://i.ibb.co/TkH7W0G/MEGA-PIX.png" group-title="FILMES",MEGA PIX
@@ -1162,7 +1136,7 @@ PARAMOUNT
 #EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="PARAMOUNT" tvg-logo="https://i.ibb.co/k40Z8n5/PARAMOUNT.png" group-title="FILMES",PARAMOUNT
 http://b5.vc:80/live/7885037935/fireurl.co/90634.ts
 
-#EXTINF:-1 tvg-id="PARAMOUNT ALT" tvg-name="PARAMOUNT ALT" tvg-logo="https://i.ibb.co/k40Z8n5/PARAMOUNT.png" group-title="FILMES",PARAMOUNT ALT
+#EXTINF:-1 tvg-id="PARAMOUNT ALT" tvg-name="PARAMOUNT ALT" tvg-logo="https://i.ibb.co/k40Z8n5/PARAMOUNT.png" group-title="FILMES",PARAMOUNT 
 http://b5.vc:80/live/7885037935/fireurl.co/72217.ts
 
 #EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="PARAMOUNT" tvg-logo="https://i.ibb.co/k40Z8n5/PARAMOUNT.png" group-title="FILMES",PARAMOUNT
@@ -1184,7 +1158,7 @@ SONY
 #EXTINF:-1 tvg-id="SONY" tvg-name="SONY" tvg-logo="https://i.ibb.co/x8C0VXq/SONY.png" group-title="FILMES",SONY
 http://b5.vc:80/live/7885037935/fireurl.co/71824.ts
 
-#EXTINF:-1 tvg-id="SONY ALT" tvg-name="SONY ALT" tvg-logo="https://i.ibb.co/x8C0VXq/SONY.png" group-title="FILMES",SONY ALT
+#EXTINF:-1 tvg-id="SONY ALT" tvg-name="SONY ALT" tvg-logo="https://i.ibb.co/x8C0VXq/SONY.png" group-title="FILMES",SONY 
 http://b5.vc:80/live/7885037935/fireurl.co/71825.ts
 
 #EXTINF:-1 tvg-id="SONY" tvg-name="SONY" tvg-logo="https://i.ibb.co/x8C0VXq/SONY.png" group-title="FILMES",SONY
@@ -1230,7 +1204,7 @@ SPACE
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://i.ibb.co/9GjFgPc/SPACE.png" group-title="FILMES",SPACE
 http://b5.vc:80/live/7885037935/fireurl.co/90633.ts
 
-#EXTINF:-1 tvg-id="SPACE ALT" tvg-name="SPACE ALT" tvg-logo="https://i.ibb.co/9GjFgPc/SPACE.png" group-title="FILMES",SPACE ALT
+#EXTINF:-1 tvg-id="SPACE ALT" tvg-name="SPACE ALT" tvg-logo="https://i.ibb.co/9GjFgPc/SPACE.png" group-title="FILMES",SPACE 
 http://b5.vc:80/live/7885037935/fireurl.co/72317.ts
 
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://i.ibb.co/9GjFgPc/SPACE.png" group-title="FILMES",SPACE
@@ -1251,7 +1225,7 @@ SYFY
 #EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" tvg-logo="https://i.ibb.co/tMyGJth/SYFY.png" group-title="FILMES",SYFY
 http://b5.vc:80/live/7885037935/fireurl.co/72338.ts
 
-#EXTINF:-1 tvg-id="SYFY ALT" tvg-name="SYFY ALT" tvg-logo="https://i.ibb.co/tMyGJth/SYFY.png" group-title="FILMES",SYFY ALT
+#EXTINF:-1 tvg-id="SYFY ALT" tvg-name="SYFY ALT" tvg-logo="https://i.ibb.co/tMyGJth/SYFY.png" group-title="FILMES",SYFY 
 http://b5.vc:80/live/7885037935/fireurl.co/72339.ts
 
 #EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" tvg-logo="https://i.ibb.co/tMyGJth/SYFY.png" group-title="FILMES",SYFY
@@ -1272,7 +1246,7 @@ TBS
 #EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="https://i.ibb.co/xgS1gwQ/TBS.png" group-title="FILMES",TBS
 http://b5.vc:80/live/7885037935/fireurl.co/72342.ts
 
-#EXTINF:-1 tvg-id="TBS ALT" tvg-name="TBS ALT" tvg-logo="https://i.ibb.co/xgS1gwQ/TBS.png" group-title="FILMES",TBS ALT
+#EXTINF:-1 tvg-id="TBS ALT" tvg-name="TBS ALT" tvg-logo="https://i.ibb.co/xgS1gwQ/TBS.png" group-title="FILMES",TBS 
 http://b5.vc:80/live/7885037935/fireurl.co/72343.ts
 
 #EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="https://i.ibb.co/xgS1gwQ/TBS.png" group-title="FILMES",TBS
@@ -1295,7 +1269,7 @@ TCM
 #EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://i.ibb.co/wc0ycWB/tcm.png" group-title="FILMES",TCM
 http://b5.vc:80/live/7885037935/fireurl.co/73251.ts
 
-#EXTINF:-1 tvg-id="TCM ALT" tvg-name="TCM ALT" tvg-logo="https://i.ibb.co/wc0ycWB/tcm.png" group-title="FILMES",TCM ALT
+#EXTINF:-1 tvg-id="TCM ALT" tvg-name="TCM ALT" tvg-logo="https://i.ibb.co/wc0ycWB/tcm.png" group-title="FILMES",TCM 
 http://b5.vc:80/live/7885037935/fireurl.co/73252.ts
 
 #EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://i.ibb.co/wc0ycWB/tcm.png" group-title="FILMES",TCM
@@ -1316,7 +1290,7 @@ TELECINE ACTION
 #EXTINF:-1 tvg-id="TELECINE ACTION" tvg-name="TELECINE ACTION" tvg-logo="https://i.ibb.co/Zx4DkDs/TC-ACTION.png" group-title="FILMES",TELECINE ACTION
 http://b5.vc:80/live/7885037935/fireurl.co/90239.ts
 
-#EXTINF:-1 tvg-id="TELECINE ACTION ALT" tvg-name="TELECINE ACTION ALT" tvg-logo="https://i.ibb.co/Zx4DkDs/TC-ACTION.png" group-title="FILMES",TELECINE ACTION ALT
+#EXTINF:-1 tvg-id="TELECINE ACTION ALT" tvg-name="TELECINE ACTION ALT" tvg-logo="https://i.ibb.co/Zx4DkDs/TC-ACTION.png" group-title="FILMES",TELECINE ACTION 
 http://b5.vc:80/live/7885037935/fireurl.co/72346.ts
 
 #EXTINF:-1 tvg-id="TELECINE ACTION" tvg-name="TELECINE ACTION" tvg-logo="https://i.ibb.co/Zx4DkDs/TC-ACTION.png" group-title="FILMES",TELECINE ACTION
@@ -1360,7 +1334,7 @@ TELECINE FUN
 #EXTINF:-1 tvg-id="TELECINE FUN" tvg-name="TELECINE FUN" tvg-logo="https://i.ibb.co/PQh2c25/TELECINE-fun.png" group-title="FILMES",TELECINE FUN
 http://b5.vc:80/live/7885037935/fireurl.co/72354.ts
 
-#EXTINF:-1 tvg-id="TELECINE FUN ALT" tvg-name="TELECINE FUN ALT" tvg-logo="https://i.ibb.co/PQh2c25/TELECINE-fun.png" group-title="FILMES",TELECINE FUN ALT
+#EXTINF:-1 tvg-id="TELECINE FUN ALT" tvg-name="TELECINE FUN ALT" tvg-logo="https://i.ibb.co/PQh2c25/TELECINE-fun.png" group-title="FILMES",TELECINE FUN 
 http://b5.vc:80/live/7885037935/fireurl.co/72356.ts
 
 #EXTINF:-1 tvg-id="TELECINE FUN" tvg-name="TELECINE FUN" tvg-logo="https://i.ibb.co/PQh2c25/TELECINE-fun.png" group-title="FILMES",TELECINE FUN
@@ -1383,7 +1357,7 @@ TELECINE PIPOCA
 #EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-name="TELECINE PIPOCA" tvg-logo="https://i.ibb.co/5x1bzzQ/TELECINE-pipoca.png" group-title="FILMES",TELECINE PIPOCA
 http://b5.vc:80/live/7885037935/fireurl.co/72358.ts
 
-#EXTINF:-1 tvg-id="TELECINE PIPOCA ALT" tvg-name="TELECINE PIPOCA ALT" tvg-logo="https://i.ibb.co/5x1bzzQ/TELECINE-pipoca.png" group-title="FILMES",TELECINE PIPOCA ALT
+#EXTINF:-1 tvg-id="TELECINE PIPOCA ALT" tvg-name="TELECINE PIPOCA ALT" tvg-logo="https://i.ibb.co/5x1bzzQ/TELECINE-pipoca.png" group-title="FILMES",TELECINE PIPOCA 
 http://b5.vc:80/live/7885037935/fireurl.co/72359.ts
 
 #EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-name="TELECINE PIPOCA" tvg-logo="https://i.ibb.co/5x1bzzQ/TELECINE-pipoca.png" group-title="FILMES",TELECINE PIPOCA
@@ -1404,7 +1378,7 @@ TELECINE PREMIUM
 #EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="https://i.ibb.co/MVkw1vz/TELECINE-premium.png" group-title="FILMES",TELECINE PREMIUM
 http://b5.vc:80/live/7885037935/fireurl.co/72362.ts
 
-#EXTINF:-1 tvg-id="TELECINE PREMIUM ALT" tvg-name="TELECINE PREMIUM ALT" tvg-logo="https://i.ibb.co/MVkw1vz/TELECINE-premium.png" group-title="FILMES",TELECINE PREMIUM ALT
+#EXTINF:-1 tvg-id="TELECINE PREMIUM ALT" tvg-name="TELECINE PREMIUM ALT" tvg-logo="https://i.ibb.co/MVkw1vz/TELECINE-premium.png" group-title="FILMES",TELECINE PREMIUM 
 http://b5.vc:80/live/7885037935/fireurl.co/72363.ts
 
 #EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="https://i.ibb.co/MVkw1vz/TELECINE-premium.png" group-title="FILMES",TELECINE PREMIUM
@@ -1428,7 +1402,7 @@ TELECINE TOUCH
 #EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-name="TELECINE TOUCH" tvg-logo="https://i.ibb.co/hCqQgmD/TELECINE-TOUCH.png" group-title="FILMES",TELECINE TOUCH
 http://b5.vc:80/live/7885037935/fireurl.co/72366.ts
 
-#EXTINF:-1 tvg-id="TELECINE TOUCH ALT" tvg-name="TELECINE TOUCH ALT" tvg-logo="https://i.ibb.co/hCqQgmD/TELECINE-TOUCH.png" group-title="FILMES",TELECINE TOUCH ALT
+#EXTINF:-1 tvg-id="TELECINE TOUCH ALT" tvg-name="TELECINE TOUCH ALT" tvg-logo="https://i.ibb.co/hCqQgmD/TELECINE-TOUCH.png" group-title="FILMES",TELECINE TOUCH 
 http://b5.vc:80/live/7885037935/fireurl.co/72367.ts
 
 #EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-name="TELECINE TOUCH" tvg-logo="https://i.ibb.co/hCqQgmD/TELECINE-TOUCH.png" group-title="FILMES",TELECINE TOUCH
@@ -1450,7 +1424,7 @@ TNT
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://i.ibb.co/ThpkBmh/tnt.png" group-title="FILMES",TNT
 http://b5.vc:80/live/7885037935/fireurl.co/72377.ts
 
-#EXTINF:-1 tvg-id="TNT ALT" tvg-name="TNT ALT" tvg-logo="https://i.ibb.co/ThpkBmh/tnt.png" group-title="FILMES",TNT ALT
+#EXTINF:-1 tvg-id="TNT ALT" tvg-name="TNT ALT" tvg-logo="https://i.ibb.co/ThpkBmh/tnt.png" group-title="FILMES",TNT 
 http://b5.vc:80/live/7885037935/fireurl.co/72375.ts
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://i.ibb.co/ThpkBmh/tnt.png" group-title="FILMES",TNT
@@ -1471,7 +1445,7 @@ TNT SERIES
 #EXTINF:-1 tvg-id="TNT SERIES" tvg-name="TNT SERIES" tvg-logo="https://i.ibb.co/cbqmGrF/tnt-SERIES.png" group-title="FILMES",TNT SERIES
 http://b5.vc:80/live/7885037935/fireurl.co/72380.ts
 
-#EXTINF:-1 tvg-id="TNT SERIES ALT" tvg-name="TNT SERIES ALT" tvg-logo="https://i.ibb.co/cbqmGrF/tnt-SERIES.png" group-title="FILMES",TNT SERIES ALT
+#EXTINF:-1 tvg-id="TNT SERIES ALT" tvg-name="TNT SERIES ALT" tvg-logo="https://i.ibb.co/cbqmGrF/tnt-SERIES.png" group-title="FILMES",TNT SERIES 
 http://b5.vc:80/live/7885037935/fireurl.co/72381.ts
 
 #EXTINF:-1 tvg-id="TNT SERIES" tvg-name="TNT SERIES" tvg-logo="https://i.ibb.co/cbqmGrF/tnt-SERIES.png" group-title="FILMES",TNT SERIES
@@ -1480,10 +1454,10 @@ http://b5.vc:80/live/7885037935/fireurl.co/72383.ts
 #EXTINF:-1 tvg-id="TNT SERIES" tvg-name="TNT SERIES" tvg-logo="https://i.ibb.co/cbqmGrF/tnt-SERIES.png" group-title="FILMES",TNT SERIES
 http://b5.vc:80/live/7885037935/fireurl.co/90670.ts
 
-#EXTINF:-1 tvg-id="TNT SERIES" tvg-name="TNT SERIES" tvg-logo="https://i.ibb.co/cbqmGrF/tnt-SERIES.png" group-title="FILMES",TNT SERIES FHD
+#EXTINF:-1 tvg-id="TNT SERIES" tvg-name="TNT SERIES" tvg-logo="https://i.ibb.co/cbqmGrF/tnt-SERIES.png" group-title="FILMES",TNT SERIES 
 http://b5.vc:80/live/7885037935/fireurl.co/72384.ts
 
-#EXTINF:-1 tvg-id="TNT SERIES" tvg-name="TNT SERIES" tvg-logo="https://i.ibb.co/cbqmGrF/tnt-SERIES.png" group-title="FILMES",TNT SERIES SD
+#EXTINF:-1 tvg-id="TNT SERIES" tvg-name="TNT SERIES" tvg-logo="https://i.ibb.co/cbqmGrF/tnt-SERIES.png" group-title="FILMES",TNT SERIES
 http://noah.tvdns.tech:80/live/claudiofera/Fera2021/358979.m3u8
 
 
@@ -1493,19 +1467,19 @@ UNIVERSAL CHANNEL
 #EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://i.ibb.co/QP2BkfL/universal.png" group-title="FILMES",UNIVERSAL CHANNEL
 http://b5.vc:80/live/7885037935/fireurl.co/90632.ts
 
-#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL ALT" tvg-name="UNIVERSAL CHANNEL ALT" tvg-logo="https://i.ibb.co/QP2BkfL/universal.png" group-title="FILMES",UNIVERSAL CHANNEL ALT
+#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL ALT" tvg-name="UNIVERSAL CHANNEL ALT" tvg-logo="https://i.ibb.co/QP2BkfL/universal.png" group-title="FILMES",UNIVERSAL CHANNEL 
 http://b5.vc:80/live/7885037935/fireurl.co/72419.ts
 
 #EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://i.ibb.co/QP2BkfL/universal.png" group-title="FILMES",UNIVERSAL CHANNEL
 http://b5.vc:80/live/7885037935/fireurl.co/72420.ts
 
-#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://i.ibb.co/QP2BkfL/universal.png" group-title="FILMES",UNIVERSAL CHANNEL FHD
+#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://i.ibb.co/QP2BkfL/universal.png" group-title="FILMES",UNIVERSAL CHANNEL 
 http://b5.vc:80/live/7885037935/fireurl.co/72421.ts
 
-#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://i.ibb.co/QP2BkfL/universal.png" group-title="FILMES",UNIVERSAL CHANNEL HD
+#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://i.ibb.co/QP2BkfL/universal.png" group-title="FILMES",UNIVERSAL CHANNEL 
 http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359147.m3u8
 
-#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://i.ibb.co/QP2BkfL/universal.png" group-title="FILMES",UNIVERSAL CHANNEL SD
+#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://i.ibb.co/QP2BkfL/universal.png" group-title="FILMES",UNIVERSAL CHANNEL 
 http://b5.vc:80/live/7885037935/fireurl.co/72422.ts
 
 WARNER CHANNEL
@@ -1516,13 +1490,13 @@ http://b5.vc:80/live/7885037935/fireurl.co/90236.ts
 #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://i.ibb.co/6nSJ9mQ/warner.png" group-title="FILMES",WARNER CHANNEL
 http://b5.vc:80/live/7885037935/fireurl.co/72431.ts
 
-#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://i.ibb.co/6nSJ9mQ/warner.png" group-title="FILMES",WARNER CHANNEL FHD
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://i.ibb.co/6nSJ9mQ/warner.png" group-title="FILMES",WARNER CHANNEL 
 http://b5.vc:80/live/7885037935/fireurl.co/72432.ts
 
-#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://i.ibb.co/6nSJ9mQ/warner.png" group-title="FILMES",WARNER CHANNEL HD
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://i.ibb.co/6nSJ9mQ/warner.png" group-title="FILMES",WARNER CHANNEL 
 http://b5.vc:80/live/7885037935/fireurl.co/72434.ts
 
-#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://i.ibb.co/6nSJ9mQ/warner.png" group-title="FILMES",WARNER CHANNEL SD
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://i.ibb.co/6nSJ9mQ/warner.png" group-title="FILMES",WARNER CHANNEL 
 http://b5.vc:80/live/7885037935/fireurl.co/90648.ts
 
 #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://i.ibb.co/6nSJ9mQ/warner.png" group-title="FILMES",WARNER CHANNEL
@@ -1544,7 +1518,7 @@ http://b5.vc:80/live/7885037935/fireurl.co/72437.ts
 #EXTINF:-1 tvg-id="WOOHOO" tvg-name="WOOHOO" tvg-logo="https://i.ibb.co/QFVwjPb/woohoo.png" group-title="FILMES",WOOHOO
 http://b5.vc:80/live/7885037935/fireurl.co/72438.ts
 
-#EXTINF:-1 tvg-id="WOOHOO" tvg-name="WOOHOO" tvg-logo="https://i.ibb.co/QFVwjPb/woohoo.png" group-title="FILMES",WOOHOO FHD
+#EXTINF:-1 tvg-id="WOOHOO" tvg-name="WOOHOO" tvg-logo="https://i.ibb.co/QFVwjPb/woohoo.png" group-title="FILMES",WOOHOO 
 http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460977.m3u8
 
 #EXTINF:-1 tvg-id="WOOHOO" tvg-name="WOOHOO" tvg-logo="https://i.ibb.co/QFVwjPb/woohoo.png" group-title="FILMES",WOOHOO
@@ -1565,7 +1539,7 @@ http://b5.vc:80/live/7885037935/fireurl.co/71778.ts
 #EXTINF:-1 tvg-id="ARTE 1" tvg-name="ARTE 1" tvg-logo="https://i.ibb.co/h7MdYzd/LOGO-ARTE1.png" group-title="VARIEDADES",ARTE 1
 http://b5.vc:80/live/7885037935/fireurl.co/71779.ts
 
-#EXTINF:-1 tvg-id="ARTE 1" tvg-name="ARTE 1" tvg-logo="https://i.ibb.co/h7MdYzd/LOGO-ARTE1.png" group-title="VARIEDADES",ARTE 1 FHD
+#EXTINF:-1 tvg-id="ARTE 1" tvg-name="ARTE 1" tvg-logo="https://i.ibb.co/h7MdYzd/LOGO-ARTE1.png" group-title="VARIEDADES",ARTE 1 
 http://b5.vc:80/live/7885037935/fireurl.co/71780.ts
 
 #EXTINF:-1 tvg-id="ARTE 1" tvg-name="ARTE 1" tvg-logo="https://i.ibb.co/h7MdYzd/LOGO-ARTE1.png" group-title="VARIEDADES",ARTE 1
@@ -1580,19 +1554,19 @@ BIS
 #EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="https://i.ibb.co/JCY95Pb/BIS.png" group-title="VARIEDADES",BIS
 http://b5.vc:80/live/7885037935/fireurl.co/71806.ts
 
-#EXTINF:-1 tvg-id="BIS ALT" tvg-name="BIS ALT" tvg-logo="https://i.ibb.co/JCY95Pb/BIS.png" group-title="VARIEDADES",BIS ALT
+#EXTINF:-1 tvg-id="BIS ALT" tvg-name="BIS ALT" tvg-logo="https://i.ibb.co/JCY95Pb/BIS.png" group-title="VARIEDADES",BIS 
 http://b5.vc:80/live/7885037935/fireurl.co/71807.ts
 
 #EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="https://i.ibb.co/JCY95Pb/BIS.png" group-title="VARIEDADES",BIS
 http://b5.vc:80/live/7885037935/fireurl.co/71808.ts
 
-#EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="https://i.ibb.co/JCY95Pb/BIS.png" group-title="VARIEDADES",BIS FHD
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="https://i.ibb.co/JCY95Pb/BIS.png" group-title="VARIEDADES",BIS 
 http://b5.vc:80/live/7885037935/fireurl.co/71809.ts
 
 #EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="https://i.ibb.co/JCY95Pb/BIS.png" group-title="VARIEDADES",BIS
 http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460175.m3u8
 
-#EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="https://i.ibb.co/JCY95Pb/BIS.png" group-title="VARIEDADES",BIS HD
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="https://i.ibb.co/JCY95Pb/BIS.png" group-title="VARIEDADES",BIS 
 http://noah.tvdns.tech:80/live/claudiofera/Fera2021/358911.m3u8
 
 #EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="https://i.ibb.co/JCY95Pb/BIS.png" group-title="VARIEDADES",BIS
@@ -1604,7 +1578,7 @@ CANAL DO BOI
 #EXTINF:-1 tvg-id="CANAL DO BOI" tvg-name="CANAL DO BOI" tvg-logo="https://i.ibb.co/5k14ggR/canal-do-bi.png" group-title="VARIEDADES",CANAL DO BOI
 http://b5.vc:80/live/7885037935/fireurl.co/71820.ts
 
-#EXTINF:-1 tvg-id="CANAL DO BOI ALT" tvg-name="CANAL DO BOI ALT" tvg-logo="https://i.ibb.co/5k14ggR/canal-do-bi.png" group-title="VARIEDADES",CANAL DO BOI ALT
+#EXTINF:-1 tvg-id="CANAL DO BOI ALT" tvg-name="CANAL DO BOI ALT" tvg-logo="https://i.ibb.co/5k14ggR/canal-do-bi.png" group-title="VARIEDADES",CANAL DO BOI 
 http://b5.vc:80/live/7885037935/fireurl.co/71821.ts
 
 #EXTINF:-1 tvg-id="CANAL DO BOI" tvg-name="CANAL DO BOI" tvg-logo="https://i.ibb.co/5k14ggR/canal-do-bi.png" group-title="VARIEDADES",CANAL DO BOI
@@ -1641,7 +1615,7 @@ CANCAO NOVA
 #EXTINF:-1 tvg-id="CANCAO NOVA" tvg-name="CANCAO NOVA" tvg-logo="https://i.ibb.co/J201rDY/CAN-O-NOVA.png" group-title="VARIEDADES",CANCAO NOVA
 http://b5.vc:80/live/7885037935/fireurl.co/90642.ts
 
-#EXTINF:-1 tvg-id="CANCAO NOVA ALT" tvg-name="CANCAO NOVA ALT" tvg-logo="https://i.ibb.co/J201rDY/CAN-O-NOVA.png" group-title="VARIEDADES",CANCAO NOVA ALT
+#EXTINF:-1 tvg-id="CANCAO NOVA ALT" tvg-name="CANCAO NOVA ALT" tvg-logo="https://i.ibb.co/J201rDY/CAN-O-NOVA.png" group-title="VARIEDADES",CANCAO NOVA 
 http://b5.vc:80/live/7885037935/fireurl.co/71847.ts
 
 #EXTINF:-1 tvg-id="CANCAO NOVA" tvg-name="CANCAO NOVA" tvg-logo="https://i.ibb.co/J201rDY/CAN-O-NOVA.png" group-title="VARIEDADES",CANCAO NOVA
@@ -1656,7 +1630,7 @@ COMEDY CENTRAL
 #EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="COMEDY CENTRAL" tvg-logo="https://i.ibb.co/Zcbw8hq/COMEDY-CENTRAL.png" group-title="VARIEDADES",COMEDY CENTRAL
 http://b5.vc:80/live/7885037935/fireurl.co/71849.ts
 
-#EXTINF:-1 tvg-id="COMEDY CENTRA ALT" tvg-name="COMEDY CENTRAL ALT" tvg-logo="https://i.ibb.co/Zcbw8hq/COMEDY-CENTRAL.png" group-title="VARIEDADES",COMEDY CENTRAL FHD
+#EXTINF:-1 tvg-id="COMEDY CENTRA ALT" tvg-name="COMEDY CENTRAL ALT" tvg-logo="https://i.ibb.co/Zcbw8hq/COMEDY-CENTRAL.png" group-title="VARIEDADES",COMEDY CENTRAL 
 http://b5.vc:80/live/7885037935/fireurl.co/90642.ts
 
 #EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="COMEDY CENTRAL" tvg-logo="https://i.ibb.co/Zcbw8hq/COMEDY-CENTRAL.png" group-title="VARIEDADES",COMEDY CENTRAL
@@ -1676,20 +1650,20 @@ E!
 #EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="https://i.ibb.co/L8Q6QVQ/CANAL-E.png" group-title="VARIEDADES",E!
 http://b5.vc:80/live/7885037935/fireurl.co/71900.ts
 
-#EXTINF:-1 tvg-id="E! ALT" tvg-name="E! ALT" tvg-logo="https://i.ibb.co/L8Q6QVQ/CANAL-E.png" group-title="VARIEDADES",E! ALT
+#EXTINF:-1 tvg-id="E! ALT" tvg-name="E! ALT" tvg-logo="https://i.ibb.co/L8Q6QVQ/CANAL-E.png" group-title="VARIEDADES",E! 
 http://b5.vc:80/live/7885037935/fireurl.co/71901.ts
 
-#EXTINF:-1 tvg-id="E! ALT" tvg-name="E! ALT" tvg-logo="https://i.ibb.co/L8Q6QVQ/CANAL-E.png" group-title="VARIEDADES",E! FHD
+#EXTINF:-1 tvg-id="E! ALT" tvg-name="E! ALT" tvg-logo="https://i.ibb.co/L8Q6QVQ/CANAL-E.png" group-title="VARIEDADES",E! 
 http://b5.vc:80/live/7885037935/fireurl.co/71902.ts
 
-#EXTINF:-1 tvg-id="E! ALT" tvg-name="E! ALT" tvg-logo="https://i.ibb.co/L8Q6QVQ/CANAL-E.png" group-title="VARIEDADES",E! ALT
+#EXTINF:-1 tvg-id="E! ALT" tvg-name="E! ALT" tvg-logo="https://i.ibb.co/L8Q6QVQ/CANAL-E.png" group-title="VARIEDADES",E! 
 http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460326.m3u8
 
 
-#EXTINF:-1 tvg-id="E! ALT" tvg-name="E! ALT" tvg-logo="https://i.ibb.co/L8Q6QVQ/CANAL-E.png" group-title="VARIEDADES",E! ALT
+#EXTINF:-1 tvg-id="E! ALT" tvg-name="E! ALT" tvg-logo="https://i.ibb.co/L8Q6QVQ/CANAL-E.png" group-title="VARIEDADES",E! 
 http://b5.vc:80/live/7885037935/fireurl.co/71903.ts
 
-#EXTINF:-1 tvg-id="E! ALT" tvg-name="E! ALT" tvg-logo="https://i.ibb.co/L8Q6QVQ/CANAL-E.png" group-title="VARIEDADES",E! ALT
+#EXTINF:-1 tvg-id="E! ALT" tvg-name="E! ALT" tvg-logo="https://i.ibb.co/L8Q6QVQ/CANAL-E.png" group-title="VARIEDADES",E! 
 http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460326.m3u8
 
 
@@ -1699,7 +1673,7 @@ FUTURA
 #EXTINF:-1 tvg-id="FUTURA" tvg-name="FUTURA" tvg-logo="https://i.ibb.co/RDwX0jZ/futura.png" group-title="VARIEDADES",FUTURA
 http://b5.vc:80/live/7885037935/fireurl.co/71962.ts
 
-#EXTINF:-1 tvg-id="FUTURA ALT" tvg-name="FUTURA ALT" tvg-logo="https://i.ibb.co/RDwX0jZ/futura.png" group-title="VARIEDADES",FUTURA ALT
+#EXTINF:-1 tvg-id="FUTURA ALT" tvg-name="FUTURA ALT" tvg-logo="https://i.ibb.co/RDwX0jZ/futura.png" group-title="VARIEDADES",FUTURA 
 http://b5.vc:80/live/7885037935/fireurl.co/71963.ts
 
 #EXTINF:-1 tvg-id="FUTURA" tvg-name="FUTURA" tvg-logo="https://i.ibb.co/RDwX0jZ/futura.png" group-title="VARIEDADES",FUTURA
@@ -1720,13 +1694,13 @@ GNT
 #EXTINF:-1 tvg-id="GNT" tvg-name="GNT" tvg-logo="https://i.ibb.co/t8kxJyw/GNT.png" group-title="VARIEDADES",GNT
 http://b5.vc:80/live/7885037935/fireurl.co/90638.ts
 
-#EXTINF:-1 tvg-id="GNT ALT" tvg-name="GNT ALT" tvg-logo="https://i.ibb.co/t8kxJyw/GNT.png" group-title="VARIEDADES",GNT ALT
+#EXTINF:-1 tvg-id="GNT ALT" tvg-name="GNT ALT" tvg-logo="https://i.ibb.co/t8kxJyw/GNT.png" group-title="VARIEDADES",GNT 
 http://b5.vc:80/live/7885037935/fireurl.co/72102.ts
 
 #EXTINF:-1 tvg-id="GNT" tvg-name="GNT" tvg-logo="https://i.ibb.co/t8kxJyw/GNT.png" group-title="VARIEDADES",GNT
 http://b5.vc:80/live/7885037935/fireurl.co/72103.ts
 
-#EXTINF:-1 tvg-id="GNT" tvg-name="GNT" tvg-logo="https://i.ibb.co/t8kxJyw/GNT.png" group-title="VARIEDADES",GNT FHD
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT" tvg-logo="https://i.ibb.co/t8kxJyw/GNT.png" group-title="VARIEDADES",GNT 
 http://b5.vc:80/live/7885037935/fireurl.co/72104.ts
 
 #EXTINF:-1 tvg-id="GNT" tvg-name="GNT" tvg-logo="https://i.ibb.co/t8kxJyw/GNT.png" group-title="VARIEDADES",GNT
@@ -1741,10 +1715,10 @@ MULTISHOW
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://i.ibb.co/vJ18kdP/MULTI-SHOW.png" group-title="VARIEDADES",MULTISHOW
 http://b5.vc:80/live/7885037935/fireurl.co/72181.ts
 
-#EXTINF:-1 tvg-id="MULTISHOW ALT" tvg-name="MULTISHOW ALT" tvg-logo="https://i.ibb.co/vJ18kdP/MULTI-SHOW.png" group-title="VARIEDADES",MULTISHOW ALT
+#EXTINF:-1 tvg-id="MULTISHOW ALT" tvg-name="MULTISHOW ALT" tvg-logo="https://i.ibb.co/vJ18kdP/MULTI-SHOW.png" group-title="VARIEDADES",MULTISHOW 
 http://b5.vc:80/live/7885037935/fireurl.co/72179.ts
 
-#EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://i.ibb.co/vJ18kdP/MULTI-SHOW.png" group-title="VARIEDADES",MULTISHOW FHD
+#EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://i.ibb.co/vJ18kdP/MULTI-SHOW.png" group-title="VARIEDADES",MULTISHOW 
 http://b5.vc:80/live/7885037935/fireurl.co/72180.ts
 
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://i.ibb.co/vJ18kdP/MULTI-SHOW.png" group-title="VARIEDADES",MULTISHOW
@@ -1763,16 +1737,16 @@ MTV
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://i.ibb.co/0tKMkVf/MTV.png" group-title="VARIEDADES",MTV
 http://b5.vc:80/live/7885037935/fireurl.co/72171.ts
 
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://i.ibb.co/0tKMkVf/MTV.png" group-title="VARIEDADES",MTV FHD
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://i.ibb.co/0tKMkVf/MTV.png" group-title="VARIEDADES",MTV 
 http://b5.vc:80/live/7885037935/fireurl.co/72172.ts
 
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://i.ibb.co/0tKMkVf/MTV.png" group-title="VARIEDADES",MTV
 http://b5.vc:80/live/7885037935/fireurl.co/72173.ts
 
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://i.ibb.co/0tKMkVf/MTV.png" group-title="VARIEDADES",MTV LIVE
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://i.ibb.co/0tKMkVf/MTV.png" group-title="VARIEDADES",MTV 
 http://b5.vc:80/live/7885037935/fireurl.co/72174.ts
 
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://i.ibb.co/0tKMkVf/MTV.png" group-title="VARIEDADES",MTV LIVE
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://i.ibb.co/0tKMkVf/MTV.png" group-title="VARIEDADES",MTV 
 http://b5.vc:80/live/7885037935/fireurl.co/72177.ts
 
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://i.ibb.co/0tKMkVf/MTV.png" group-title="VARIEDADES",MTV
@@ -1785,7 +1759,7 @@ VH1
 #EXTINF:-1 tvg-id="VH1" tvg-name="VH1" tvg-logo="https://i.ibb.co/vPtHLkn/LOGO-VH1.png" group-title="VARIEDADES",VH1
 http://b5.vc:80/live/7885037935/fireurl.co/72423.ts
 
-#EXTINF:-1 tvg-id="VH1 ALT" tvg-name="VH1 ALT" tvg-logo="https://i.ibb.co/vPtHLkn/LOGO-VH1.png" group-title="VARIEDADES",VH1 FHD
+#EXTINF:-1 tvg-id="VH1 ALT" tvg-name="VH1 ALT" tvg-logo="https://i.ibb.co/vPtHLkn/LOGO-VH1.png" group-title="VARIEDADES",VH1 
 http://b5.vc:80/live/7885037935/fireurl.co/72424.ts
 
 #EXTINF:-1 tvg-id="VH1" tvg-name="VH1" tvg-logo="https://i.ibb.co/vPtHLkn/LOGO-VH1.png" group-title="VARIEDADES",VH1
@@ -1808,10 +1782,10 @@ VIVA
 #EXTINF:-1 tvg-id="VIVA" tvg-name="VIVA" tvg-logo="https://i.ibb.co/5TMTZrV/viva.png" group-title="VARIEDADES",VIVA
 http://b5.vc:80/live/7885037935/fireurl.co/72427.ts
 
-#EXTINF:-1 tvg-id="VIVA ALT" tvg-name="VIVA ALT" tvg-logo="https://i.ibb.co/5TMTZrV/viva.png" group-title="VARIEDADES",VIVA ALT
+#EXTINF:-1 tvg-id="VIVA ALT" tvg-name="VIVA ALT" tvg-logo="https://i.ibb.co/5TMTZrV/viva.png" group-title="VARIEDADES",VIVA 
 http://b5.vc:80/live/7885037935/fireurl.co/72428.ts
 
-#EXTINF:-1 tvg-id="VIVA" tvg-name="VIVA" tvg-logo="https://i.ibb.co/5TMTZrV/viva.png" group-title="VARIEDADES",VIVA FHD
+#EXTINF:-1 tvg-id="VIVA" tvg-name="VIVA" tvg-logo="https://i.ibb.co/5TMTZrV/viva.png" group-title="VARIEDADES",VIVA 
 http://b5.vc:80/live/7885037935/fireurl.co/72429.ts
 
 #EXTINF:-1 tvg-id="VIVA" tvg-name="VIVA" tvg-logo="https://i.ibb.co/5TMTZrV/viva.png" group-title="VARIEDADES",VIVA
@@ -1837,7 +1811,7 @@ BAND SPORTS
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://i.ibb.co/L9WYTt5/BAND-SPORTS.png" group-title="ESPORTES",BAND SPORTS
 http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460163.m3u8
 
-#EXTINF:-1 tvg-id="BAND SPORTS ALT" tvg-name="BAND SPORTS ALT" tvg-logo="https://i.ibb.co/L9WYTt5/BAND-SPORTS.png" group-title="ESPORTES",BAND SPORTS FHD
+#EXTINF:-1 tvg-id="BAND SPORTS ALT" tvg-name="BAND SPORTS ALT" tvg-logo="https://i.ibb.co/L9WYTt5/BAND-SPORTS.png" group-title="ESPORTES",BAND SPORTS 
 http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460164.m3u8
 
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://i.ibb.co/L9WYTt5/BAND-SPORTS.png" group-title="ESPORTES",BAND SPORTS
@@ -1859,13 +1833,13 @@ COMBATE
 #EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE" tvg-logo="https://i.ibb.co/VQvz6wN/COMBATE.png" group-title="ESPORTES",COMBATE
 https://cdn.esporteone.com/COMBATESD/video.m3u8?md5=oIsQqZNnwW56i_LxQ6lQ4A&expires=1617505525
 
-#EXTINF:-1 tvg-id="COMBATE ALT" tvg-name="COMBATE ALT" tvg-logo="https://i.ibb.co/VQvz6wN/COMBATE.png" group-title="ESPORTES",COMBATE ALT
+#EXTINF:-1 tvg-id="COMBATE ALT" tvg-name="COMBATE ALT" tvg-logo="https://i.ibb.co/VQvz6wN/COMBATE.png" group-title="ESPORTES",COMBATE 
 http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460220.m3u8
 
 #EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE" tvg-logo="https://i.ibb.co/VQvz6wN/COMBATE.png" group-title="ESPORTES",COMBATE
 http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359371.m3u8
 
-#EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE" tvg-logo="https://i.ibb.co/VQvz6wN/COMBATE.png" group-title="ESPORTES",COMBATE FHD
+#EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE" tvg-logo="https://i.ibb.co/VQvz6wN/COMBATE.png" group-title="ESPORTES",COMBATE 
 http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460221.m3u8
 
 #EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE" tvg-logo="https://i.ibb.co/VQvz6wN/COMBATE.png" group-title="ESPORTES",COMBATE
@@ -1882,20 +1856,20 @@ ESPN
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.ibb.co/GRXnmVb/ESPN.png" group-title="ESPORTES",ESPN
 https://h617m1px6ibyxob.ezcdn462.net:8443/hls/3uunui0917.m3u8?s=XKWu_WNjrzBjXqxWR-xDyg&e=1617520541
 
-#EXTINF:-1 tvg-id="ESPN ALT" tvg-name="ESPN ALT" tvg-logo="https://i.ibb.co/GRXnmVb/ESPN.png" group-title="ESPORTES",ESPN ALT
+#EXTINF:-1 tvg-id="ESPN ALT" tvg-name="ESPN ALT" tvg-logo="https://i.ibb.co/GRXnmVb/ESPN.png" group-title="ESPORTES",ESPN 
 http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460360.m3u8
 
 
-#EXTINF:-1 tvg-id="ESPN ALT" tvg-name="ESPN ALT" tvg-logo="https://i.ibb.co/GRXnmVb/ESPN.png" group-title="ESPORTES",ESPN ALT
+#EXTINF:-1 tvg-id="ESPN ALT" tvg-name="ESPN ALT" tvg-logo="https://i.ibb.co/GRXnmVb/ESPN.png" group-title="ESPORTES",ESPN 
 http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359109.m3u8
 
-#EXTINF:-1 tvg-id="ESPN ALT" tvg-name="ESPN ALT" tvg-logo="https://i.ibb.co/GRXnmVb/ESPN.png" group-title="ESPORTES",ESPN ALT
+#EXTINF:-1 tvg-id="ESPN ALT" tvg-name="ESPN ALT" tvg-logo="https://i.ibb.co/GRXnmVb/ESPN.png" group-title="ESPORTES",ESPN 
 http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359374.m3u8
 
-#EXTINF:-1 tvg-id="ESPN ALT" tvg-name="ESPN ALT" tvg-logo="https://i.ibb.co/GRXnmVb/ESPN.png" group-title="ESPORTES",ESPN ALT
+#EXTINF:-1 tvg-id="ESPN ALT" tvg-name="ESPN ALT" tvg-logo="https://i.ibb.co/GRXnmVb/ESPN.png" group-title="ESPORTES",ESPN 
 http://n.srv1.xyz:8880/rogerrocha/estherlorena/32969
 
-#EXTINF:-1 tvg-id="ESPN ALT" tvg-name="ESPN ALT" tvg-logo="https://i.ibb.co/GRXnmVb/ESPN.png" group-title="ESPORTES",ESPN ALT
+#EXTINF:-1 tvg-id="ESPN ALT" tvg-name="ESPN ALT" tvg-logo="https://i.ibb.co/GRXnmVb/ESPN.png" group-title="ESPORTES",ESPN 
 http://n.srv1.xyz:8880/rogerrocha/estherlorena/32993
 
 
@@ -1905,10 +1879,10 @@ ESPN BRASIL
 #EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL" tvg-logo="https://i.ibb.co/hM2yPgx/ESPN-BRASIL.png" group-title="ESPORTES",ESPN BRASIL
 http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460348.m3u8
 
-#EXTINF:-1 tvg-id="ESPN BRASIL ALT" tvg-name="ESPN BRASIL ALT" tvg-logo="https://i.ibb.co/hM2yPgx/ESPN-BRASIL.png" group-title="ESPORTES",ESPN BRASIL ALT
+#EXTINF:-1 tvg-id="ESPN BRASIL ALT" tvg-name="ESPN BRASIL ALT" tvg-logo="https://i.ibb.co/hM2yPgx/ESPN-BRASIL.png" group-title="ESPORTES",ESPN BRASIL 
 http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460349.m3u8
 
-#EXTINF:-1 tvg-id="ESPN BRASIL ALT" tvg-name="ESPN BRASIL ALT" tvg-logo="https://i.ibb.co/hM2yPgx/ESPN-BRASIL.png" group-title="ESPORTES",ESPN BRASIL ALT
+#EXTINF:-1 tvg-id="ESPN BRASIL ALT" tvg-name="ESPN BRASIL ALT" tvg-logo="https://i.ibb.co/hM2yPgx/ESPN-BRASIL.png" group-title="ESPORTES",ESPN BRASIL 
 http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460350.m3u8
 #EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL" tvg-logo="https://i.ibb.co/hM2yPgx/ESPN-BRASIL.png" group-title="ESPORTES",ESPN BRASIL
 http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359150.m3u8
@@ -1922,7 +1896,7 @@ http://n.srv1.xyz:8880/rogerrocha/estherlorena/32984
 
 ESPN 2
 
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.ibb.co/7Cb37YM/ESPN-EXTRA.png" group-title="ESPORTES",ESPN 2 FHD
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.ibb.co/7Cb37YM/ESPN-EXTRA.png" group-title="ESPORTES",ESPN 2 
 http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460363.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.ibb.co/7Cb37YM/ESPN-EXTRA.png" group-title="ESPORTES",ESPN 2
@@ -1969,11 +1943,11 @@ FOX SPORTS
 #EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="FOX SPORTS" tvg-logo="https://i.ibb.co/Hpbytzj/FOX-SPORTS.png" group-title="ESPORTES",FOX SPORTS
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/foxsports_8a1beaee_65675ebc58d201be1c06147b779bf18e83bab02b/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiNDUuMTY2LjI0OS4xODEiO2k6MTtzOjExNToiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxNzQ5NjY4Mjt9
 
-#EXTINF:-1 tvg-id="FOX SPORTS ALT" tvg-name="FOX SPORTS ALT" tvg-logo="https://i.ibb.co/Hpbytzj/FOX-SPORTS.png" group-title="ESPORTES",FOX SPORTS ALT
+#EXTINF:-1 tvg-id="FOX SPORTS ALT" tvg-name="FOX SPORTS ALT" tvg-logo="https://i.ibb.co/Hpbytzj/FOX-SPORTS.png" group-title="ESPORTES",FOX SPORTS 
 http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359383.m3u8
 
 
-#EXTINF:-1 tvg-id="FOX SPORTS ALT" tvg-name="FOX SPORTS ALT" tvg-logo="https://i.ibb.co/Hpbytzj/FOX-SPORTS.png" group-title="ESPORTES",FOX SPORTS ALT
+#EXTINF:-1 tvg-id="FOX SPORTS ALT" tvg-name="FOX SPORTS ALT" tvg-logo="https://i.ibb.co/Hpbytzj/FOX-SPORTS.png" group-title="ESPORTES",FOX SPORTS 
 http://rec2.distv.net:80/daniele/12345/152
 
 #EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="FOX SPORTS" tvg-logo="https://i.ibb.co/Hpbytzj/FOX-SPORTS.png" group-title="ESPORTES",FOX SPORTS
@@ -1993,10 +1967,10 @@ FOX SPORTS 2
 #EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-name="FOX SPORTS 2" tvg-logo="https://i.ibb.co/7yT52ZQ/FOX-SPORTS-2.png" group-title="ESPORTES",FOX SPORTS 2
 http://srvtv.online:2082/Altair567/356738473/4577
 
-#EXTINF:-1 tvg-id="FOX SPORTS 2 ALT" tvg-name="FOX SPORTS 2 ALT" tvg-logo="https://i.ibb.co/7yT52ZQ/FOX-SPORTS-2.png" group-title="ESPORTES",FOX SPORTS 2 ALT
+#EXTINF:-1 tvg-id="FOX SPORTS 2 ALT" tvg-name="FOX SPORTS 2 ALT" tvg-logo="https://i.ibb.co/7yT52ZQ/FOX-SPORTS-2.png" group-title="ESPORTES",FOX SPORTS 2 
 http://rec2.distv.net:80/daniele/12345/153
 
-#EXTINF:-1 tvg-id="FOX SPORTS 2 ALT" tvg-name="FOX SPORTS 2 ALT" tvg-logo="https://i.ibb.co/7yT52ZQ/FOX-SPORTS-2.png" group-title="ESPORTES",FOX SPORTS 2 ALT
+#EXTINF:-1 tvg-id="FOX SPORTS 2 ALT" tvg-name="FOX SPORTS 2 ALT" tvg-logo="https://i.ibb.co/7yT52ZQ/FOX-SPORTS-2.png" group-title="ESPORTES",FOX SPORTS 2 
 http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460406.m3u8
 
 
@@ -2016,10 +1990,10 @@ OFF
 #EXTINF:-1 tvg-id="OFF" tvg-name="OFF" tvg-logo="https://i.ibb.co/PN11fsg/OFF.png" group-title="ESPORTES",OFF
 http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460692.m3u8
 
-#EXTINF:-1 tvg-id="OFF ALT" tvg-name="OFF ALT" tvg-logo="https://i.ibb.co/PN11fsg/OFF.png" group-title="ESPORTES",OFF ALT
+#EXTINF:-1 tvg-id="OFF ALT" tvg-name="OFF ALT" tvg-logo="https://i.ibb.co/PN11fsg/OFF.png" group-title="ESPORTES",OFF 
 http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359148.m3u8
 
-#EXTINF:-1 tvg-id="OFF ALT" tvg-name="OFF ALT" tvg-logo="https://i.ibb.co/PN11fsg/OFF.png" group-title="ESPORTES",OFF ALT
+#EXTINF:-1 tvg-id="OFF ALT" tvg-name="OFF ALT" tvg-logo="https://i.ibb.co/PN11fsg/OFF.png" group-title="ESPORTES",OFF 
 http://noah.tvdns.tech:80/live/claudiofera/Fera2021/358978.m3u8
 
 #EXTINF:-1 tvg-id="OFF" tvg-name="OFF" tvg-logo="https://i.ibb.co/PN11fsg/OFF.png" group-title="ESPORTES",OFF
@@ -2038,11 +2012,11 @@ PREMIER CLUBES
 #EXTINF:-1 tvg-id="PREMIER CLUBES" tvg-name="PREMIER CLUBES" tvg-logo="https://i.ibb.co/2kbmwmZ/premiere.png" group-title="ESPORTES",PREMIER CLUBES
 http://srv.maxptv.net:8080/987654321/987654321/85
 
-#EXTINF:-1 tvg-id="PREMIER CLUBES ALT" tvg-name="PREMIER CLUBES ALT" tvg-logo="https://i.ibb.co/2kbmwmZ/premiere.png" group-title="ESPORTES",PREMIER CLUBES ALT
+#EXTINF:-1 tvg-id="PREMIER CLUBES ALT" tvg-name="PREMIER CLUBES ALT" tvg-logo="https://i.ibb.co/2kbmwmZ/premiere.png" group-title="ESPORTES",PREMIER CLUBES 
 http://srv.maxptv.net:8080/987654321/987654321/86
 
 
-#EXTINF:-1 tvg-id="PREMIER CLUBES ALT" tvg-name="PREMIER CLUBES ALT" tvg-logo="https://i.ibb.co/2kbmwmZ/premiere.png" group-title="ESPORTES",PREMIER CLUBES ALT
+#EXTINF:-1 tvg-id="PREMIER CLUBES ALT" tvg-name="PREMIER CLUBES ALT" tvg-logo="https://i.ibb.co/2kbmwmZ/premiere.png" group-title="ESPORTES",PREMIER CLUBES 
 http://srv.maxptv.net:8080/987654321/987654321/247
 
 #EXTINF:-1 tvg-id="PREMIER CLUBES" tvg-name="PREMIER CLUBES" tvg-logo="https://i.ibb.co/2kbmwmZ/premiere.png" group-title="ESPORTES",PREMIER CLUBES
@@ -2124,7 +2098,7 @@ SPORT TV
 ######EXTINF:-1 tvg-id="SPORT TV" tvg-name="SPORT TV" tvg-logo="https://i.ibb.co/k6jyqrQ/LOGO-SPORTV.png" group-title="ESPORTES",SPORT TV
 http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460831.m3u8
 
-#####EXTINF:-1 tvg-id="SPORT TV ALT" tvg-name="SPORT TV ALT" tvg-logo="https://i.ibb.co/k6jyqrQ/LOGO-SPORTV.png" group-title="ESPORTES",SPORT TV ALT
+#####EXTINF:-1 tvg-id="SPORT TV ALT" tvg-name="SPORT TV ALT" tvg-logo="https://i.ibb.co/k6jyqrQ/LOGO-SPORTV.png" group-title="ESPORTES",SPORT TV 
 http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359376.m3u8
 
 ####EXTINF:-1 tvg-id="SPORT TV" tvg-name="SPORT TV" tvg-logo="https://i.ibb.co/k6jyqrQ/LOGO-SPORTV.png" group-title="ESPORTES",SPORT TV
@@ -2144,10 +2118,10 @@ SPORT TV 2
 ##EXTINF:-1 tvg-id="SPORT TV 2" tvg-name="SPORT TV 2" tvg-logo="https://i.ibb.co/NL5NX00/LOGO-SPORT-TV-2.png" group-title="ESPORTES",SPORT TV 2
 http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460817.m3u8
 
-#EXTINF:-1 tvg-id="SPORT TV 2 ALT" tvg-name="SPORT TV 2 ALT" tvg-logo="https://i.ibb.co/NL5NX00/LOGO-SPORT-TV-2.png" group-title="ESPORTES",SPORT TV 2 ALT
+#EXTINF:-1 tvg-id="SPORT TV 2 ALT" tvg-name="SPORT TV 2 ALT" tvg-logo="https://i.ibb.co/NL5NX00/LOGO-SPORT-TV-2.png" group-title="ESPORTES",SPORT TV 2 
 http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460818.m3u8
 
-###EXTINF:-1 tvg-id="SPORT TV 2 ALT" tvg-name="SPORT TV 2 ALT" tvg-logo="https://i.ibb.co/NL5NX00/LOGO-SPORT-TV-2.png" group-title="ESPORTES",SPORT TV 2 ALT
+###EXTINF:-1 tvg-id="SPORT TV 2 ALT" tvg-name="SPORT TV 2 ALT" tvg-logo="https://i.ibb.co/NL5NX00/LOGO-SPORT-TV-2.png" group-title="ESPORTES",SPORT TV 2 
 http://noah.tvdns.tech:80/live/claudiofera/Fera2021/358818.m3u8
 
 ##EXTINF:-1 tvg-id="SPORT TV 2" tvg-name="SPORT TV 2" tvg-logo="https://i.ibb.co/NL5NX00/LOGO-SPORT-TV-2.png" group-title="ESPORTES",SPORT TV 2
