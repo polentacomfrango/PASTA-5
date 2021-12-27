@@ -133,7 +133,7 @@ INFANTIL
 BABY TV
 
 #EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://i.ibb.co/3185byV/BABY-TV.png" group-title="INFANTIL",BABY TV
-http://dnsl.me:80/live/Cristiano2021/2021cristiano/25369.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=https://list.iptvcat.com/my_list/s/7ab3243f5700e272cafaa60f9a36972a.m3u8
 
 
 #EXTINF:-1 tvg-id="BABY TV ALT" tvg-name="BABY TV ALT" tvg-logo="https://i.ibb.co/3185byV/BABY-TV.png" group-title="INFANTIL",BABY TV ALT
