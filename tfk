@@ -6,27 +6,27 @@ CANAIS ABERTOS
 
 BAND
 
-#EXTINF:-1 tvg-id="BAND" tvg-name="BAND " tvg-logo="https://i.ibb.co/KrHqPsR/BAND.png" group-title="ABERTOS",BAND SP
+#EXTINF:-1 tvg-id="BAND" tvg-name="BAND " tvg-logo="https://ibb.co/6rctCn8" group-title="ABERTOS",BAND SP
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/16697
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND " tvg-logo="https://i.ibb.co/KrHqPsR/BAND.png" group-title="ABERTOS",BAND SP
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://vipeiptv.com:25461/brian123/brian321/856507
 
-#EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://i.ibb.co/KrHqPsR/BAND.png" group-title="ABERTOS",BAND 
+#EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://ibb.co/6rctCn8" group-title="ABERTOS",BAND 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://neonp2p.com:25461/11991166879vlamirt2/aqwecvr147as/856507
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://i.ibb.co/KrHqPsR/BAND.png" group-title="ABERTOS",BAND 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31056
 
-#EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://i.ibb.co/KrHqPsR/BAND.png" group-title="ABERTOS",BAND
+#EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://ibb.co/6rctCn8" group-title="ABERTOS",BAND
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://neonp2p.com:25461/11991166879vlamirt2/aqwecvr147as/856509
 
-#EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://i.ibb.co/KrHqPsR/BAND.png" group-title="ABERTOS",BAND
+#EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://ibb.co/6rctCn8" group-title="ABERTOS",BAND
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/35971
 
-#EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://i.ibb.co/KrHqPsR/BAND.png" group-title="ABERTOS",BAND
+#EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://ibb.co/6rctCn8" group-title="ABERTOS",BAND
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31030
 
-#EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://i.ibb.co/KrHqPsR/BAND.png" group-title="ABERTOS",BAND
+#EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://ibb.co/6rctCn8" group-title="ABERTOS",BAND
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/35971
 
 
@@ -35,22 +35,22 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet]
 
 SBT
 
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.ibb.co/GTRwVbb/SBT.png" group-title="ABERTOS",SBT
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://ibb.co/n3S5FLn" group-title="ABERTOS",SBT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31080
 
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.ibb.co/GTRwVbb/SBT.png" group-title="ABERTOS",SBT
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://ibb.co/n3S5FLn" group-title="ABERTOS",SBT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/16749
 
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.ibb.co/GTRwVbb/SBT.png" group-title="ABERTOS",SBT
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://ibb.co/n3S5FLn" group-title="ABERTOS",SBT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://vipeiptv.com:25461/brian123/brian321/856527
 
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.ibb.co/GTRwVbb/SBT.png" group-title="ABERTOS",SBT
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://ibb.co/n3S5FLn" group-title="ABERTOS",SBT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://neonp2p.com:25461/11991166879vlamirt2/aqwecvr147as/856527
 
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.ibb.co/GTRwVbb/SBT.png" group-title="ABERTOS",SBT
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://ibb.co/n3S5FLn" group-title="ABERTOS",SBT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://vipeiptv.com:25461/brian123/brian321/856845
 
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.ibb.co/GTRwVbb/SBT.png" group-title="ABERTOS",SBT
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://ibb.co/n3S5FLn" group-title="ABERTOS",SBT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://neonp2p.com:25461/11991166879vlamirt2/aqwecvr147as/856845
 
 
@@ -59,23 +59,23 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet]
 
 RECORD
 
-#EXTINF:-1 tvg-id="RECORD HD" tvg-name="RECORD HD" tvg-logo="https://i.ibb.co/SNdM55B/RECORD.png" group-title="ABERTOS",RECORD HD
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="RECORD HD" tvg-logo="https://ibb.co/wgDVW2k" group-title="ABERTOS",RECORD HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/35991
 
-#EXTINF:-1 tvg-id="RECORD HD " tvg-name="RECORD HD ALT" tvg-logo="https://i.ibb.co/SNdM55B/RECORD.png" group-title="ABERTOS",RECORD HD ALT
+#EXTINF:-1 tvg-id="RECORD HD " tvg-name="RECORD HD ALT" tvg-logo="https://ibb.co/wgDVW2k" group-title="ABERTOS",RECORD HD ALT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/16748
 
 
-#EXTINF:-1 tvg-id="RECORD HD " tvg-name="RECORD HD ALT" tvg-logo="https://i.ibb.co/SNdM55B/RECORD.png" group-title="ABERTOS",RECORD HD 
+#EXTINF:-1 tvg-id="RECORD HD " tvg-name="RECORD HD ALT" tvg-logo="https://ibb.co/wgDVW2k" group-title="ABERTOS",RECORD HD 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/36089
 
-#EXTINF:-1 tvg-id="RECORD HD " tvg-name="RECORD HD ALT" tvg-logo="https://i.ibb.co/SNdM55B/RECORD.png" group-title="ABERTOS",RECORD 4k
+#EXTINF:-1 tvg-id="RECORD HD " tvg-name="RECORD HD ALT" tvg-logo="https://ibb.co/wgDVW2k" group-title="ABERTOS",RECORD 4k
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31043
 
 #EXTINF:-1 tvg-id="RECORD HD ALT" tvg-name="RECORD HD ALT" tvg-logo="https://i.ibb.co/SNdM55B/RECORD.png" group-title="ABERTOS",RECORD HD 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31569
 
-#EXTINF:-1 tvg-id="RECORD HD ALT" tvg-name="RECORD HD ALT" tvg-logo="https://i.ibb.co/SNdM55B/RECORD.png" group-title="ABERTOS",RECORD HD ALT
+#EXTINF:-1 tvg-id="RECORD HD ALT" tvg-name="RECORD HD ALT" tvg-logo="https://ibb.co/wgDVW2k" group-title="ABERTOS",RECORD HD ALT
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://vipeiptv.com:25461/brian123/brian321/856523
 
 
@@ -83,19 +83,19 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet]
 
 CULTURA
 
-#EXTINF:-1 tvg-id="CULTURA " tvg-name="CULTURA " tvg-logo="https://i.ibb.co/qrNHjht/cultura.png" group-title="ABERTOS",CULTURA 
+#EXTINF:-1 tvg-id="CULTURA " tvg-name="CULTURA " tvg-logo="https://ibb.co/HFy65yd" group-title="ABERTOS",CULTURA 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31084
 
-#EXTINF:-1 tvg-id="CULTURA PR" tvg-name="CULTURA ALT" tvg-logo="https://i.ibb.co/qrNHjht/cultura.png" group-title="ABERTOS",CULTURA 
+#EXTINF:-1 tvg-id="CULTURA PR" tvg-name="CULTURA ALT" tvg-logo="https://ibb.co/HFy65yd" group-title="ABERTOS",CULTURA 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31083
 
-#EXTINF:-1 tvg-id="CULTURA PR" tvg-name="CULTURA ALT" tvg-logo="https://i.ibb.co/qrNHjht/cultura.png" group-title="ABERTOS",CULTURA
+#EXTINF:-1 tvg-id="CULTURA PR" tvg-name="CULTURA ALT" tvg-logo="https://ibb.co/HFy65yd" group-title="ABERTOS",CULTURA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31084
 
-#EXTINF:-1 tvg-id="CULTURA PR" tvg-name="CULTURA ALT" tvg-logo="https://i.ibb.co/qrNHjht/cultura.png" group-title="ABERTOS",CULTURA
+#EXTINF:-1 tvg-id="CULTURA PR" tvg-name="CULTURA ALT" tvg-logo="https://ibb.co/HFy65yd" group-title="ABERTOS",CULTURA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31083
 
-#EXTINF:-1 tvg-id="CULTURA PR" tvg-name="CULTURA ALT" tvg-logo="https://i.ibb.co/qrNHjht/cultura.png" group-title="ABERTOS",CULTURA 
+#EXTINF:-1 tvg-id="CULTURA PR" tvg-name="CULTURA ALT" tvg-logo="https://ibb.co/HFy65yd" group-title="ABERTOS",CULTURA 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31083
 
 
@@ -103,25 +103,25 @@ GLOBO
 
 
 
-#EXTINF:-1 tvg-id="GLOBO  HD" tvg-name="GLOBO SP HD" tvg-logo="https://i.ibb.co/bNrn52W/GLOBO.png" group-title="ABERTOS",GLOBO
+#EXTINF:-1 tvg-id="GLOBO  HD" tvg-name="GLOBO SP HD" tvg-logo="https://ibb.co/FnJvpdS" group-title="ABERTOS",GLOBO
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://neonp2p.com:25461/11991166879vlamirt2/aqwecvr147as/856808
 
-#EXTINF:-1 tvg-id="GLOBO  HD" tvg-name="GLOBO SP HD ALT" tvg-logo="https://i.ibb.co/bNrn52W/GLOBO.png" group-title="ABERTOS",GLOBO
+#EXTINF:-1 tvg-id="GLOBO  HD" tvg-name="GLOBO SP HD ALT" tvg-logo="https://ibb.co/FnJvpdS" group-title="ABERTOS",GLOBO
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://neonp2p.com:25461/11991166879vlamirt2/aqwecvr147as/856807
 
 
-#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO RJ HD" tvg-logo="https://i.ibb.co/bNrn52W/GLOBO.png" group-title="ABERTOS",GLOBO 
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO RJ HD" tvg-logo="https://ibb.co/FnJvpdS" group-title="ABERTOS",GLOBO 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/32180
 
 
-#EXTINF:-1 tvg-id="GLOBO CURITIBA HD" tvg-name="GLOBO CURITIBA HD" tvg-logo="https://i.ibb.co/bNrn52W/GLOBO.png" group-title="ABERTOS", GLOBO 
+#EXTINF:-1 tvg-id="GLOBO CURITIBA HD" tvg-name="GLOBO CURITIBA HD" tvg-logo="https://ibb.co/FnJvpdS" group-title="ABERTOS", GLOBO 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://vipeiptv.com:25461/brian123/brian321/856423
 
 
-#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO" tvg-logo="https://i.ibb.co/bNrn52W/GLOBO.png" group-title="ABERTOS",GLOBO
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO" tvg-logo="https://ibb.co/FnJvpdS" group-title="ABERTOS",GLOBO
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/32169
 
-#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO" tvg-logo="https://i.ibb.co/bNrn52W/GLOBO.png" group-title="ABERTOS",GLOBO
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO" tvg-logo="https://ibb.co/FnJvpdS" group-title="ABERTOS",GLOBO
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/32180
 
 
@@ -132,27 +132,27 @@ INFANTIL
 
 BABY TV
 
-#EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://i.ibb.co/3185byV/BABY-TV.png" group-title="INFANTIL",BABY TV
+#EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://ibb.co/TqN67Hr" group-title="INFANTIL",BABY TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/36010
 
 
-#EXTINF:-1 tvg-id="BABY TV ALT" tvg-name="BABY TV ALT" tvg-logo="https://i.ibb.co/3185byV/BABY-TV.png" group-title="INFANTIL",BABY TV 
+#EXTINF:-1 tvg-id="BABY TV ALT" tvg-name="BABY TV ALT" tvg-logo="https://ibb.co/TqN67Hr" group-title="INFANTIL",BABY TV 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/130198.ts
 
-#EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://i.ibb.co/3185byV/BABY-TV.png" group-title="INFANTIL",BABY TV
+#EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://ibb.co/TqN67Hr" group-title="INFANTIL",BABY TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31476
 
-#EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://i.ibb.co/3185byV/BABY-TV.png" group-title="INFANTIL",BABY TV
+#EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://ibb.co/TqN67Hr" group-title="INFANTIL",BABY TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31477
 
-#EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://i.ibb.co/3185byV/BABY-TV.png" group-title="INFANTIL",BABY TV
+#EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://ibb.co/TqN67Hr" group-title="INFANTIL",BABY TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/130198.ts
 
-#EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://i.ibb.co/3185byV/BABY-TV.png" group-title="INFANTIL",BABY TV
+#EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://ibb.co/TqN67Hr" group-title="INFANTIL",BABY TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31477
 
 
-#EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://i.ibb.co/3185byV/BABY-TV.png" group-title="INFANTIL",BABY TV
+#EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://ibb.co/TqN67Hr" group-title="INFANTIL",BABY TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/36010
 
 
