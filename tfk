@@ -296,86 +296,87 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet]
 GLOOB
 
 #EXTINF:-1 tvg-id="GLOOB" tvg-name="GLOOB" tvg-logo="https://i.ibb.co/j5qxm58/GLOOB.png" group-title="INFANTIL",GLOOB
-http://dns.fastuhd.online:80/04286291/69978869/173613
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/131117.ts
 
 #EXTINF:-1 tvg-id="GLOOB" tvg-name="GLOOB" tvg-logo="https://i.ibb.co/j5qxm58/GLOOB.png" group-title="INFANTIL",GLOOB
-http://dns.fastuhd.online:80/04286291/69978869/173182
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/72100.ts
 
 #EXTINF:-1 tvg-id="GLOOB" tvg-name="GLOOB" tvg-logo="https://i.ibb.co/j5qxm58/GLOOB.png" group-title="INFANTIL",GLOOB
-http://dns.fastuhd.online:80/04286291/69978869/173614
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/36000
 
 #EXTINF:-1 tvg-id="GLOOB" tvg-name="GLOOB" tvg-logo="https://i.ibb.co/j5qxm58/GLOOB.png" group-title="INFANTIL",GLOOB
-http://b5.vc:80/live/7885037935/fireurl.co/72101.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/72099.ts
 
 #EXTINF:-1 tvg-id="GLOOB" tvg-name="GLOOB" tvg-logo="https://i.ibb.co/j5qxm58/GLOOB.png" group-title="INFANTIL",GLOOB
-http://diretogo.com:80/a694360/6125381/2819
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/131153.ts
 
 #EXTINF:-1 tvg-id="GLOOB" tvg-name="GLOOB" tvg-logo="https://i.ibb.co/j5qxm58/GLOOB.png" group-title="INFANTIL",GLOOB
-http://diretogo.com:80/a694360/6125381/44
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/103498.ts
 
 
 
 GLOOBINHO
 
 #EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="GLOOBINHO" tvg-logo="https://i.ibb.co/DtNHx52/GLOOBINHO.png" group-title="INFANTIL",GLOOBINHO
-http://dns.fastuhd.online:80/04286291/69978869/173626
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/103497.ts
 
 #EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="GLOOBINHO" tvg-logo="https://i.ibb.co/DtNHx52/GLOOBINHO.png" group-title="INFANTIL",GLOOBINHO
-http://b5.vc:80/live/7885037935/fireurl.co/90629.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/90631.ts
 
 #EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="GLOOBINHO" tvg-logo="https://i.ibb.co/DtNHx52/GLOOBINHO.png" group-title="INFANTIL",GLOOBINHO
-http://b5.vc:80/live/7885037935/fireurl.co/90628.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/90629.ts
 
 #EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="GLOOBINHO" tvg-logo="https://i.ibb.co/DtNHx52/GLOOBINHO.png" group-title="INFANTIL",GLOOBINHO
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359003.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/35962
 
 #EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="GLOOBINHO" tvg-logo="https://i.ibb.co/DtNHx52/GLOOBINHO.png" group-title="INFANTIL",GLOOBINHO
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460320.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/131173.ts
 
 #EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="GLOOBINHO" tvg-logo="https://i.ibb.co/DtNHx52/GLOOBINHO.png" group-title="INFANTIL",GLOOBINHO
-http://rec2.distv.net:80/pedro1/pedro1/154
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/131173.ts
 
 
 
 NICK JR
 
 #EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="https://i.ibb.co/SrjBfgs/NICK-JR.png" group-title="INFANTIL",NICK JR
-http://dns.fastuhd.online:80/04286291/69978869/173619
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/72201.ts
 
 #EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="https://i.ibb.co/SrjBfgs/NICK-JR.png" group-title="INFANTIL",NICK JR
-http://dns.fastuhd.online:80/04286291/69978869/173618
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/72202.ts
 
 #EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="https://i.ibb.co/SrjBfgs/NICK-JR.png" group-title="INFANTIL",NICK JR
-http://dns.fastuhd.online:80/04286291/69978869/173617
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/72203.ts
 
 #EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="https://i.ibb.co/SrjBfgs/NICK-JR.png" group-title="INFANTIL",NICK JR
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460681.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/16744
 
 #EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="https://i.ibb.co/SrjBfgs/NICK-JR.png" group-title="INFANTIL",NICK JR
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359122.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/72204.ts
 
 #EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="https://i.ibb.co/SrjBfgs/NICK-JR.png" group-title="INFANTIL",NICK JR
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359059.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/103485.ts
 
 
 NICKELODEON
 
 #EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://i.ibb.co/wZnmW1F/NICKELODEON.png" group-title="INFANTIL",NICKELODEON
-http://dns.fastuhd.online:80/04286291/69978869/173620
+http://cdn99.one:80/984854/6b4zmQ/90241.ts
 
 #EXTINF:-1 tvg-id="NICKELODEON ALT" tvg-name="NICKELODEON ALT" tvg-logo="https://i.ibb.co/wZnmW1F/NICKELODEON.png" group-title="INFANTIL",NICKELODEON 
+http://cdn99.one:80/984854/6b4zmQ/72205.ts
 
 #EXTINF:-1 tvg-id="NICKELODEON ALT" tvg-name="NICKELODEON ALT" tvg-logo="https://i.ibb.co/wZnmW1F/NICKELODEON.png" group-title="INFANTIL",NICKELODEON 
-http://dns.fastuhd.online:80/04286291/69978869/173632
+http://cdn99.one:80/984854/6b4zmQ/72206.ts
 
 #EXTINF:-1 tvg-id="NICKELODEON ALT" tvg-name="NICKELODEON ALT" tvg-logo="https://i.ibb.co/wZnmW1F/NICKELODEON.png" group-title="INFANTIL",NICKELODEON 
-http://b5.vc:80/live/7885037935/fireurl.co/72208.ts
+http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/36017
 
 #EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://i.ibb.co/wZnmW1F/NICKELODEON.png" group-title="INFANTIL",NICKELODEON
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359022.m3u8
+http://cdn99.one:80/984854/6b4zmQ/72207.ts
 
 #EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://i.ibb.co/wZnmW1F/NICKELODEON.png" group-title="INFANTIL",NICKELODEON
-http://srvtv.online:2082/Altair567/356738473/4053
+http://cdn99.one:80/984854/6b4zmQ/72208.ts
 
 
 
