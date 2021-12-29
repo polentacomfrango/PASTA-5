@@ -523,17 +523,17 @@ DISCOVERY HOME AND HEALTH
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdnrede.com:80/andrea123/123andrea/174637
 
 #EXTINF:-1 tvg-id="DISCOVERY HOME AND HEALTH" tvg-name="DISCOVERY HOME AND HEALTH" tvg-logo="https://i.ibb.co/kKKwhXV/home-and-half.png" group-title="DOCUMENTARIOS",DISCOVERY HOME AND HEALTH 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://n.srv1.xyz:8880/live/leticia21/21leticia/42917.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdnrede.com:80/Laerte2021/2021laerte/4997
 
 
 #EXTINF:-1 tvg-id="DISCOVERY HOME AND HEALTH" tvg-name="DISCOVERY HOME AND HEALTH" tvg-logo="https://i.ibb.co/kKKwhXV/home-and-half.png" group-title="DOCUMENTARIOS",DISCOVERY HOME AND HEALTH
-http://b5.vc:80/live/7885037935/fireurl.co/71868.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdnrede.com:80/Laerte2021/2021laerte/21295
 
 #EXTINF:-1 tvg-id="DISCOVERY HOME AND HEALTH" tvg-name="DISCOVERY HOME AND HEALTH" tvg-logo="https://i.ibb.co/kKKwhXV/home-and-half.png" group-title="DOCUMENTARIOS",DISCOVERY HOME AND HEALTH
-http://b5.vc:80/live/7885037935/fireurl.co/71869.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdnrede.com:80/Laerte2021/2021laerte/4998
 
 #EXTINF:-1 tvg-id="DISCOVERY HOME AND HEALTH" tvg-name="DISCOVERY HOME AND HEALTH" tvg-logo="https://i.ibb.co/kKKwhXV/home-and-half.png" group-title="DOCUMENTARIOS",DISCOVERY HOME AND HEALTH
-http://b5.vc:80/live/7885037935/fireurl.co/71870.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdnrede.com:80/Laerte2021/2021laerte/21294
 
 #EXTINF:-1 tvg-id="DISCOVERY HOME AND HEALTH" tvg-name="DISCOVERY HOME AND HEALTH" tvg-logo="https://i.ibb.co/kKKwhXV/home-and-half.png" group-title="DOCUMENTARIOS",DISCOVERY HOME AND HEALTH
 http://noah.tvdns.tech:80/live/claudiofera/Fera2021/358941.m3u8
