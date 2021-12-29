@@ -1,0 +1,12 @@
+<item>
+<title>Test</title>
+<link>$doregex[resolver]</link>
+<regex>
+<name>resolver</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.herokuapp.com/resolver?url=https%3A%2F%2Fmulticanais.tv%2Faovivo%2Fassistir-tv-online-gratis-hoje-hd%2F</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
