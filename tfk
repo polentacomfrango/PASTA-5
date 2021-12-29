@@ -2135,7 +2135,7 @@ http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460828.m3u8
 NOTICIAS
 
 #EXTINF:-1 tvg-id="JOVEM PAN TV" tvg-name="JOVEM PAN TV" tvg-logo="https://i.ibb.co/LtvQT3H/JOVEM-PAN-TV.png" group-title="NOTICIAS",JOVEM PAN TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/134022.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR violet][B]@by_flecha_negra[/B][/COLOR]&amp;url=https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_1.m3u8
 
 #EXTINF:-1 tvg-id="JOVEM PAN TV" tvg-name="JOVEM PAN TV" tvg-logo="https://i.ibb.co/LtvQT3H/JOVEM-PAN-TV.png" group-title="NOTICIAS",JOVEM PAN TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/134024.ts?
