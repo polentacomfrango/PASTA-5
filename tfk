@@ -1811,21 +1811,22 @@ ESPORTES
 BAND SPORTS
 
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://i.ibb.co/Q8CHrc1/BAND-SPORTS.png" group-title="ESPORTES",BAND SPORTS
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460163.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31134?
 
 #EXTINF:-1 tvg-id="BAND SPORTS ALT" tvg-name="BAND SPORTS ALT" tvg-logo="https://i.ibb.co/Q8CHrc1/BAND-SPORTS.png" group-title="ESPORTES",BAND SPORTS 
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460164.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/103525.ts?
 
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://i.ibb.co/Q8CHrc1/BAND-SPORTS.png" group-title="ESPORTES",BAND SPORTS
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/358793.m3u8
-#EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://i.ibb.co/Q8CHrc1/BAND-SPORTS.png" group-title="ESPORTES",BAND SPORTS
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460165.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/71801.ts?
 
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://i.ibb.co/Q8CHrc1/BAND-SPORTS.png" group-title="ESPORTES",BAND SPORTS
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460166.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/71802.ts?
 
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://i.ibb.co/Q8CHrc1/BAND-SPORTS.png" group-title="ESPORTES",BAND SPORTS
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/358938.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/35965?
+
+#EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://i.ibb.co/Q8CHrc1/BAND-SPORTS.png" group-title="ESPORTES",BAND SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/71803.ts?
 
 
 
@@ -1836,150 +1837,128 @@ COMBATE
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31032
 
 #EXTINF:-1 tvg-id="COMBATE ALT" tvg-name="COMBATE ALT" tvg-logo="https://i.ibb.co/GTXXw1V/COMBATE.png" group-title="ESPORTES",COMBATE 
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460220.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31136?
 
 #EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE" tvg-logo="https://i.ibb.co/GTXXw1V/COMBATE.png" group-title="ESPORTES",COMBATE
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359371.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31137?
 
 #EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE" tvg-logo="https://i.ibb.co/GTXXw1V/COMBATE.png" group-title="ESPORTES",COMBATE 
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460221.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31138?
 
 #EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE" tvg-logo="https://i.ibb.co/GTXXw1V/COMBATE.png" group-title="ESPORTES",COMBATE
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460223.m3u8
-#EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE" tvg-logo="https://i.ibb.co/GTXXw1V/COMBATE.png" group-title="ESPORTES",COMBATE
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460224.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/71845.ts?
 
 #EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE" tvg-logo="https://i.ibb.co/GTXXw1V/COMBATE.png" group-title="ESPORTES",COMBATE
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/358921.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/36084?
+
+#EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE" tvg-logo="https://i.ibb.co/GTXXw1V/COMBATE.png" group-title="ESPORTES",COMBATE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/71846.ts?
 
 
 ESPN
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.ibb.co/6gvsBPZ/ESPN-BRASIL.png" group-title="ESPORTES",ESPN
-https://h617m1px6ibyxob.ezcdn462.net:8443/hls/3uunui0917.m3u8?s=XKWu_WNjrzBjXqxWR-xDyg&e=1617520541
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/71923.ts?
 
 #EXTINF:-1 tvg-id="ESPN ALT" tvg-name="ESPN ALT" tvg-logo="https://i.ibb.co/6gvsBPZ/ESPN-BRASIL.png" group-title="ESPORTES",ESPN 
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460360.m3u8
-
-
-#EXTINF:-1 tvg-id="ESPN ALT" tvg-name="ESPN ALT" tvg-logo="https://i.ibb.co/6gvsBPZ/ESPN-BRASIL.png" group-title="ESPORTES",ESPN 
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359109.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31150?
 
 #EXTINF:-1 tvg-id="ESPN ALT" tvg-name="ESPN ALT" tvg-logo="https://i.ibb.co/6gvsBPZ/ESPN-BRASIL.png" group-title="ESPORTES",ESPN 
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359374.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/36003?
 
 #EXTINF:-1 tvg-id="ESPN ALT" tvg-name="ESPN ALT" tvg-logo="https://i.ibb.co/6gvsBPZ/ESPN-BRASIL.png" group-title="ESPORTES",ESPN 
-http://n.srv1.xyz:8880/rogerrocha/estherlorena/32969
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/71922.ts?
 
 #EXTINF:-1 tvg-id="ESPN ALT" tvg-name="ESPN ALT" tvg-logo="https://i.ibb.co/6gvsBPZ/ESPN-BRASIL.png" group-title="ESPORTES",ESPN 
-http://n.srv1.xyz:8880/rogerrocha/estherlorena/32993
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/71920.ts?
+
+#EXTINF:-1 tvg-id="ESPN ALT" tvg-name="ESPN ALT" tvg-logo="https://i.ibb.co/6gvsBPZ/ESPN-BRASIL.png" group-title="ESPORTES",ESPN 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/71919.ts?
 
 ESPN 2
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.ibb.co/28yTFt4/ESPN-2.png" group-title="ESPORTES",ESPN 2 
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460363.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/103504.ts?
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.ibb.co/28yTFt4/ESPN-2.png" group-title="ESPORTES",ESPN 2
-https://h617m1px6ibyxob.ezcdn462.net:8443/hls/3uunui0917.m3u8?s=ZKeDcWYPqZYo323YlCkVqA&e=1617520569
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/71910.ts?
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.ibb.co/28yTFt4/ESPN-2.png" group-title="ESPORTES",ESPN 2
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359048.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/16716?
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.ibb.co/28yTFt4/ESPN-2.png" group-title="ESPORTES",ESPN 2
-http://puhd.host:80/ANDREFERNANDES/Andrefernandes20/14102
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/71909.ts?
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.ibb.co/28yTFt4/ESPN-2.png" group-title="ESPORTES",ESPN 2
-http://dns.velox4k.tech:2082/6893910914/6615263741/6923
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31140?
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.ibb.co/28yTFt4/ESPN-2.png" group-title="ESPORTES",ESPN 2
-http://n.srv1.xyz:8880/rogerrocha/estherlorena/32988
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/36014?
 
 ESPN BRASIL
 
 #EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL" tvg-logo="https://i.ibb.co/6gvsBPZ/ESPN-BRASIL.png" group-title="ESPORTES",ESPN BRASIL
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460348.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/antony/1234/50.ts?
 
 #EXTINF:-1 tvg-id="ESPN BRASIL ALT" tvg-name="ESPN BRASIL ALT" tvg-logo="https://i.ibb.co/6gvsBPZ/ESPN-BRASIL.png" group-title="ESPORTES",ESPN BRASIL 
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460349.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/leila/123456/50.ts?
 
 #EXTINF:-1 tvg-id="ESPN BRASIL ALT" tvg-name="ESPN BRASIL ALT" tvg-logo="https://i.ibb.co/6gvsBPZ/ESPN-BRASIL.png" group-title="ESPORTES",ESPN BRASIL 
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460350.m3u8
-#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL" tvg-logo="https://i.ibb.co/6gvsBPZ/ESPN-BRASIL.png" group-title="ESPORTES",ESPN BRASIL
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359150.m3u8
-#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL" tvg-logo="https://i.ibb.co/6gvsBPZ/ESPN-BRASIL.png" group-title="ESPORTES",ESPN BRASIL
-http://n.srv1.xyz:8880/rogerrocha/estherlorena/32982
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31143?
 
 #EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL" tvg-logo="https://i.ibb.co/6gvsBPZ/ESPN-BRASIL.png" group-title="ESPORTES",ESPN BRASIL
-http://n.srv1.xyz:8880/rogerrocha/estherlorena/32984
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/90640.ts?
 
+#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL" tvg-logo="https://i.ibb.co/6gvsBPZ/ESPN-BRASIL.png" group-title="ESPORTES",ESPN BRASIL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/71911.ts?
 
-EI PLUS
-
-#EXTINF:-1 tvg-id="EI PLUS" tvg-name="EI PLUS" tvg-logo="https://i.ibb.co/55mhLrk/EI-PLUS.png" group-title="ESPORTES",EI PLUS
-http://srvtv.online:2082/Altair567/356738473/4676
-
-#EXTINF:-1 tvg-id="EI PLUS" tvg-name="EI PLUS" tvg-logo="https://i.ibb.co/55mhLrk/EI-PLUS.png" group-title="ESPORTES",EI PLUS
-http://srvtv.online:2082/Altair567/356738473/6806
-
-#EXTINF:-1 tvg-id="EI PLUS" tvg-name="EI PLUS" tvg-logo="https://i.ibb.co/55mhLrk/EI-PLUS.png" group-title="ESPORTES",EI PLUS
-http://pfsv.io:80/23136533/3672/488
-
-#EXTINF:-1 tvg-id="EI PLUS" tvg-name="EI PLUS" tvg-logo="https://i.ibb.co/55mhLrk/EI-PLUS.png" group-title="ESPORTES",EI PLUS
-http://pfsv.io:80/23136533/3672/489
-
-#EXTINF:-1 tvg-id="EI PLUS" tvg-name="EI PLUS" tvg-logo="https://i.ibb.co/55mhLrk/EI-PLUS.png" group-title="ESPORTES",EI PLUS
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460368.m3u8
-
-#EXTINF:-1 tvg-id="EI PLUS" tvg-name="EI PLUS" tvg-logo="https://i.ibb.co/55mhLrk/EI-PLUS.png" group-title="ESPORTES",EI PLUS
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460369.m3u8
-
-
+#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL" tvg-logo="https://i.ibb.co/6gvsBPZ/ESPN-BRASIL.png" group-title="ESPORTES",ESPN BRASIL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/71912.ts?
 
 
 FOX SPORTS
 
 #EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="FOX SPORTS" tvg-logo="https://i.ibb.co/3Fd74s5/FOX-SPORTS.png" group-title="ESPORTES",FOX SPORTS
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/foxsports_8a1beaee_65675ebc58d201be1c06147b779bf18e83bab02b/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiNDUuMTY2LjI0OS4xODEiO2k6MTtzOjExNToiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxNzQ5NjY4Mjt9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/71959.ts?
 
 #EXTINF:-1 tvg-id="FOX SPORTS ALT" tvg-name="FOX SPORTS ALT" tvg-logo="https://i.ibb.co/3Fd74s5/FOX-SPORTS.png" group-title="ESPORTES",FOX SPORTS 
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/359383.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/71957.ts?
 
 
 #EXTINF:-1 tvg-id="FOX SPORTS ALT" tvg-name="FOX SPORTS ALT" tvg-logo="https://i.ibb.co/3Fd74s5/FOX-SPORTS.png" group-title="ESPORTES",FOX SPORTS 
-http://rec2.distv.net:80/daniele/12345/152
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/71958.ts?
 
 #EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="FOX SPORTS" tvg-logo="https://i.ibb.co/3Fd74s5/FOX-SPORTS.png" group-title="ESPORTES",FOX SPORTS
-http://dns.velox4k.tech:2082/6893910914/6615263741/4579
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/71960.ts?
 
 #EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="FOX SPORTS" tvg-logo="https://i.ibb.co/3Fd74s5/FOX-SPORTS.png" group-title="ESPORTES",FOX SPORTS
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460407.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/71961.ts?
 
 
 #EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="FOX SPORTS" tvg-logo="https://i.ibb.co/3Fd74s5/FOX-SPORTS.png" group-title="ESPORTES",FOX SPORTS
-http://puhd.host:80/ANDREFERNANDES/Andrefernandes20/26424
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/71960.ts?
 
 
 
 FOX SPORTS 2
 
 #EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-name="FOX SPORTS 2" tvg-logo="https://i.ibb.co/wQSVwb9/FOX-SPORTS-2.png" group-title="ESPORTES",FOX SPORTS 2
-http://srvtv.online:2082/Altair567/356738473/4577
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31154?
 
 #EXTINF:-1 tvg-id="FOX SPORTS 2 ALT" tvg-name="FOX SPORTS 2 ALT" tvg-logo="https://i.ibb.co/wQSVwb9/FOX-SPORTS-2.png" group-title="ESPORTES",FOX SPORTS 2 
-http://rec2.distv.net:80/daniele/12345/153
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/35964?
 
 #EXTINF:-1 tvg-id="FOX SPORTS 2 ALT" tvg-name="FOX SPORTS 2 ALT" tvg-logo="https://i.ibb.co/wQSVwb9/FOX-SPORTS-2.png" group-title="ESPORTES",FOX SPORTS 2 
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460406.m3u8
-
-
-#EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-name="FOX SPORTS 2" tvg-logo="https://i.ibb.co/wQSVwb9/FOX-SPORTS-2.png" group-title="ESPORTES",FOX SPORTS 2
-http://diretogo.com:80/a694360/6125381/2976
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/71954.ts?
 
 #EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-name="FOX SPORTS 2" tvg-logo="https://i.ibb.co/wQSVwb9/FOX-SPORTS-2.png" group-title="ESPORTES",FOX SPORTS 2
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460407.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/71952.ts?
 
 #EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-name="FOX SPORTS 2" tvg-logo="https://i.ibb.co/wQSVwb9/FOX-SPORTS-2.png" group-title="ESPORTES",FOX SPORTS 2
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460409.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/71953.ts?
+
+#EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-name="FOX SPORTS 2" tvg-logo="https://i.ibb.co/wQSVwb9/FOX-SPORTS-2.png" group-title="ESPORTES",FOX SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/71955.ts?
 
 
 
