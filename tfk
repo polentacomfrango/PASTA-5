@@ -421,7 +421,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/antony/1234/84.ts?
 
 #EXTINF:-1 tvg-id="RATIMBUM" tvg-name="RATIMBUM" tvg-logo="https://i.ibb.co/tQvMhRh/ratimbum.png" group-title="INFANTIL",RATIMBUM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://srvtv.online:2082/Altair567/356738473/7005
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31503
 
 
 
@@ -456,42 +456,42 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet]
 DISCOVERY CHANNEL
 
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.ibb.co/wWTfLFG/discovery-channel.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL
-http://168.205.87.198:8555/live/antony/1234/33.ts?
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/antony/1234/33.ts?
 
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.ibb.co/wWTfLFG/discovery-channel.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL 
-http://168.205.87.198:8555/live/leila/123456/33.ts?
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/leila/123456/33.ts?
 
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.ibb.co/wWTfLFG/discovery-channel.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL
-http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31033?
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31033?
 
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.ibb.co/wWTfLFG/discovery-channel.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL
-http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/16705?
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/16705?
 
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.ibb.co/wWTfLFG/discovery-channel.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL
-http://cdn99.one:80/984854/6b4zmQ/71866.ts?
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/71866.ts?
 
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.ibb.co/wWTfLFG/discovery-channel.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL
-http://cdn99.one:80/984854/6b4zmQ/71865.ts?
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/71865.ts?
 
 NAT GEO WILD
 
 #EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="NAT GEO WILD" tvg-logo="https://i.ibb.co/nBZLSvP/nat-geo-wild.png" group-title="DOCUMENTARIOS",NAT GEO WILD
-http://b5.vc:80/live/7885037935/fireurl.co/72192.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/90242.ts?
 
 #EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="NAT GEO WILD" tvg-logo="https://i.ibb.co/nBZLSvP/nat-geo-wild.png" group-title="DOCUMENTARIOS",NAT GEO WILD
-http://b5.vc:80/live/7885037935/fireurl.co/72193.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/72192.ts?
 
 #EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="NAT GEO WILD" tvg-logo="https://i.ibb.co/nBZLSvP/nat-geo-wild.png" group-title="DOCUMENTARIOS",NAT GEO WILD
-http://b5.vc:80/live/7885037935/fireurl.co/72194.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/72193.ts?
 
 #EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="NAT GEO WILD" tvg-logo="https://i.ibb.co/nBZLSvP/nat-geo-wild.png" group-title="DOCUMENTARIOS",NAT GEO WILD
-http://b5.vc:80/live/7885037935/fireurl.co/72195.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/72194.ts?
 
 #EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="NAT GEO WILD" tvg-logo="https://i.ibb.co/nBZLSvP/nat-geo-wild.png" group-title="DOCUMENTARIOS",NAT GEO WILD
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/460662.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/16742?
 
 #EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="NAT GEO WILD" tvg-logo="https://i.ibb.co/nBZLSvP/nat-geo-wild.png" group-title="DOCUMENTARIOS",NAT GEO WILD
-http://noah.tvdns.tech:80/live/claudiofera/Fera2021/358998.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/72195.ts?
 
 
 
