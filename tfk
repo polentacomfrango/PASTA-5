@@ -523,7 +523,7 @@ DISCOVERY HOME AND HEALTH
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://n.srv1.xyz:8880/live/leticia21/21leticia/33043.ts
 
 #EXTINF:-1 tvg-id="DISCOVERY HOME AND HEALTH" tvg-name="DISCOVERY HOME AND HEALTH" tvg-logo="https://i.ibb.co/kKKwhXV/home-and-half.png" group-title="DOCUMENTARIOS",DISCOVERY HOME AND HEALTH 
-http://n.srv1.xyz:8880/live/leticia21/21leticia/33043.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://n.srv1.xyz:8880/live/leticia21/21leticia/42917.ts
 
 
 #EXTINF:-1 tvg-id="DISCOVERY HOME AND HEALTH" tvg-name="DISCOVERY HOME AND HEALTH" tvg-logo="https://i.ibb.co/kKKwhXV/home-and-half.png" group-title="DOCUMENTARIOS",DISCOVERY HOME AND HEALTH
