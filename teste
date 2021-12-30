@@ -4,7 +4,7 @@
 <regex>
 <name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
-<page>https://apiresolver.herokuapp.com/resolver?url=https%3A%2F%2Fmulticanais.tv%2Faovivo%2Fassistir-tv-online-gratis-hoje-hd%2F</page>
+<page>https://apiresolver.herokuapp.com/resolver?url=https%3A%2F%2Fanimesonline.club%2Fanime%2Fboku-no-hero-academia%2Fepisodio%2F29946</page>
 </regex>
 <thumbnail></thumbnail>
 <fanart></fanart>
