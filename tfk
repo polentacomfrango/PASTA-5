@@ -476,7 +476,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet]
 NAT GEO WILD
 
 #EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="NAT GEO WILD" tvg-logo="https://i.ibb.co/nBZLSvP/nat-geo-wild.png" group-title="DOCUMENTARIOS",NAT GEO WILD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;http://cdn99.one:80/984854/6b4zmQ/90242.ts?
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/90242.ts?
 
 #EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="NAT GEO WILD" tvg-logo="https://i.ibb.co/nBZLSvP/nat-geo-wild.png" group-title="DOCUMENTARIOS",NAT GEO WILD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://cdn99.one:80/984854/6b4zmQ/72195.ts?
