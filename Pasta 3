@@ -1,7 +1,10 @@
-<item>
-<title>[B][COLOR white] CAMINHO DAS ÍNDIAS (2009)  [/COLOR][/B]</title>		
+
+<channels>
+<channel>
+<name>[B][COLOR violet]CAMINHO DAS ÍNDIAS (2009)[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/bXG7kB0/caminho-das-indias.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/polentacomfrango/PASTA-5/main/PASTA%204</externallink>
 <fanart>https://i.ibb.co/fnLcpK1/fanart-ANUBIS.png</fanart>
-<link>https://raw.githubusercontent.com/polentacomfrango/PASTA-5/main/PASTA%204</link>
-<info></info>
-</item>
+<info>
+</channel>
+</channels>
