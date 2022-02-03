@@ -23,6 +23,30 @@
 </item>
 
 <item>
+<title>[B][COLOR violet]Dança Fit Musicas Brasileiras [/COLOR] [/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PL-cFC2J_Gs2zNrz3mrYJrURlPM9bOi90t/?page=0</jsonrpc>
+<thumbnail>https://i.ibb.co/0jY1B4B/dance-fit-brasileiras.png</thumbnail>
+<fanart>https://i.ibb.co/m9YZh0s/backgro-anub.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR violet]Dança Fit Musicas Latinas [/COLOR] [/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PL-cFC2J_Gs2zgf3dBr5HkefwayVp3fg4t/?page=0</jsonrpc>
+<thumbnail>https://i.ibb.co/1z4fXHb/dance-fit-latinas.png</thumbnail>
+<fanart>https://i.ibb.co/m9YZh0s/backgro-anub.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR violet]Dança Fit Funk [/COLOR] [/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PL-cFC2J_Gs2xyKdwX1MnMyNcDKofMvWL7/?page=0</jsonrpc>
+<thumbnail>https://i.ibb.co/Jr5xZD0/dance-fit-Funk.png</thumbnail>
+<fanart>https://i.ibb.co/m9YZh0s/backgro-anub.jpg</fanart>
+</item>
+
+<item>
 <title>[B][COLOR violet]Emagreça Dançando [/COLOR] [/B]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PL-cFC2J_Gs2yxO2w0OdJLcGxbWr9iAp_e/?page=0</jsonrpc>
@@ -52,6 +76,14 @@
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLf6kfIcLZWMcsQXpxn2Dc4RcMQLbo1xa1/?page=0</jsonrpc>
 <thumbnail>https://i.ibb.co/m82vJyv/TREINO-XTREME.png</thumbnail>
+<fanart>https://i.ibb.co/m9YZh0s/backgro-anub.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR violet]Cardio Dance [/COLOR] [/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLtfuCqabNcQjM5wghITLkEReytVMTkZK7/?page=0</jsonrpc>
+<thumbnail>https://i.ibb.co/4NHwPyx/mexa-seu-corpo.png</thumbnail>
 <fanart>https://i.ibb.co/m9YZh0s/backgro-anub.jpg</fanart>
 </item>
 
