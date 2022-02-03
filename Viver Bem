@@ -2,7 +2,7 @@
 <title>[B][COLOR violet]Yoga [/COLOR] [/B]</title>		
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLliphiBhRpFgvFI3yT2SX8dgSHDWOcqRj/?page=0</jsonrpc>
-<thumbnail>https://i.ibb.co/3cBHyGC/DANCE-FIT.png</thumbnail>
+<thumbnail>https://i.ibb.co/DrdXsDb/yoga.png</thumbnail>
 <fanart>https://i.ibb.co/m9YZh0s/backgro-anub.jpg</fanart>
 </item>
 
@@ -47,19 +47,19 @@
 </item>
 
 <item>
-<title>[B][COLOR violet]Universidade Maromba[/COLOR] [/B]</title>		
-<thumbnail>https://i.ibb.co/mRF62YJ/universidade-maromba.png</thumbnail>
+<title>[B][COLOR violet][COLOR violet]Treino Xtreme [/COLOR] [/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLf6kfIcLZWMcsQXpxn2Dc4RcMQLbo1xa1/?page=0</jsonrpc>
+<thumbnail>https://i.ibb.co/m82vJyv/TREINO-XTREME.png</thumbnail>
 <fanart>https://i.ibb.co/m9YZh0s/backgro-anub.jpg</fanart>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0A293E3478F6B3441B9847A16E5FB8209C6D5E33</link>
-<info>  </info>
 </item>
 
 <item>
-<title>[B][COLOR violet]Sardinha Evolution[/COLOR] [/B]</title>		
-<thumbnail>https://i.ibb.co/84CJ8rv/sardinha-evolution.png</thumbnail>
+<title>[B][COLOR violet]Cardio Dance [/COLOR] [/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLtfuCqabNcQjM5wghITLkEReytVMTkZK7/?page=0</jsonrpc>
+<thumbnail>https://i.ibb.co/tZrCmjg/mexa-seu-corpo.png</thumbnail>
 <fanart>https://i.ibb.co/m9YZh0s/backgro-anub.jpg</fanart>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:70E33BFC9CC1EFA6BB7789E616349DA535FD3575</link>
-<info>  </info>
 </item>
 
 
