@@ -15,6 +15,40 @@
 </item>
 
 <item>
+<title>[B][COLOR violet]Zumba Fitness World Party [/COLOR] [/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PL-cFC2J_Gs2wbP-QmkZ_mzk78VBQi5Jbt/?page=0</jsonrpc>
+<thumbnail>https://i.ibb.co/LJ8v6qX/zumba-xbox.png</thumbnail>
+<fanart>https://i.ibb.co/m9YZh0s/backgro-anub.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR violet]Just Dance 2014 [/COLOR] [/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLAIwmSmpobdXMWTQCSrTBaRmJCq_twuNx/?page=0</jsonrpc>
+<thumbnail>https://i.ibb.co/ccYP0Lh/just-dance-2014.png</thumbnail>
+<fanart>https://i.ibb.co/m9YZh0s/backgro-anub.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR violet]Just Dance 2016 [/COLOR] [/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLAIwmSmpobdVh77G0-PM5V5y1Te3yYl9L/?page=0</jsonrpc>
+<thumbnail>https://i.ibb.co/drQFVPc/just-dance-2016.png</thumbnail>
+<fanart>https://i.ibb.co/m9YZh0s/backgro-anub.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR violet]Just Dance 2017 [/COLOR] [/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLAIwmSmpobdWUa1FWsaJHdcwoOod0j_XQ/?page=0</jsonrpc>
+<thumbnail>https://i.ibb.co/BTZNtkT/just-dance-2017.png</thumbnail>
+<fanart>https://i.ibb.co/m9YZh0s/backgro-anub.jpg</fanart>
+</item>
+
+
+
+<item>
 <title>[B][COLOR violet]Fit Dance [/COLOR] [/B]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PL-cFC2J_Gs2wbP-QmkZ_mzk78VBQi5Jbt/?page=0</jsonrpc>
