@@ -103,6 +103,14 @@
 </item>
 
 <item>
+<title>[B][COLOR violet]Fit Dance Teen [/COLOR] [/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLB94p-vc8iTD1gkiPkKLeKPep-vcdoqoh/?page=0</jsonrpc>
+<thumbnail>https://i.ibb.co/yFgCSwM/fitdance-teen.png</thumbnail>
+<fanart>https://i.ibb.co/m9YZh0s/backgro-anub.jpg</fanart>
+</item>
+
+<item>
 <title>[B][COLOR violet]Fit Dance [/COLOR] [/B]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PL-cFC2J_Gs2wbP-QmkZ_mzk78VBQi5Jbt/?page=0</jsonrpc>
