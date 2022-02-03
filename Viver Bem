@@ -15,11 +15,11 @@
 </item>
 
 <item>
-<title>[B]Zumba Fitness  [/B]</title>		
+<title>[B]Zumba Fitness  [/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PL6JmlJxKrR96YdLNEL4hjnMALyTeRhqKO/?page=0</jsonrpc>
 <thumbnail>https://i.ibb.co/LnJ0zRV/zumba.png</thumbnail>
 <fanart>https://i.ibb.co/m9YZh0s/backgro-anub.jpg</fanart>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:005D7235E44DC667BD89380C038D9DE1E9D29F1D</link>
-<info>  </info>
 </item>
 
 <item>
