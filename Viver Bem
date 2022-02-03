@@ -7,11 +7,11 @@
 </item>
 
 <item>
-<title>[B]Minha Yoga  [/B]</title>		
-<thumbnail>https://i.ibb.co/5j2CZ5J/minha-yoga.png</thumbnail>
+<title>[B]Dança Fit  [/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PL-cFC2J_Gs2wbP-QmkZ_mzk78VBQi5Jbt/?page=0</jsonrpc>
+<thumbnail>https://i.ibb.co/3cBHyGC/DANCE-FIT.png</thumbnail>
 <fanart>https://i.ibb.co/m9YZh0s/backgro-anub.jpg</fanart>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:72F9D6DC94BF8F003E4872996160C4A8DE1589C1</link>
-<info>  </info>
 </item>
 
 <item>
