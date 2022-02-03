@@ -78,7 +78,21 @@
 <fanart>https://i.ibb.co/m9YZh0s/backgro-anub.jpg</fanart>
 </item>
 
+<item>
+<title>[B][COLOR violet]Fit Dance 2021 coreografias [/COLOR] [/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLKs7SMx_9yctA8kOYjtUmPrv7ezs_hLJR/?page=0</jsonrpc>
+<thumbnail>https://i.ibb.co/xLqYG0Z/fitdance-2021.png</thumbnail>
+<fanart>https://i.ibb.co/m9YZh0s/backgro-anub.jpg</fanart>
+</item>
 
+<item>
+<title>[B][COLOR violet]Fit Dance Sertanejo 2021 [/COLOR] [/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLKs7SMx_9ycuqypl25ZGo0EQHduoGwBfb/?page=0</jsonrpc>
+<thumbnail>https://i.ibb.co/4pNhY49/fitdance-sertanejo-2021.png</thumbnail>
+<fanart>https://i.ibb.co/m9YZh0s/backgro-anub.jpg</fanart>
+</item>
 
 <item>
 <title>[B][COLOR violet]Fit Dance [/COLOR] [/B]</title>
