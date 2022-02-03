@@ -31,6 +31,14 @@
 </item>
 
 <item>
+<title>[B][COLOR violet]Just Dance 2015 [/COLOR] [/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLAIwmSmpobdXBDN83_Wnu0rYkETD3TmOJ/?page=0</jsonrpc>
+<thumbnail>https://i.ibb.co/FnT31MT/just-dance-2015.png</thumbnail>
+<fanart>https://i.ibb.co/m9YZh0s/backgro-anub.jpg</fanart>
+</item>
+
+<item>
 <title>[B][COLOR violet]Just Dance 2016 [/COLOR] [/B]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLAIwmSmpobdVh77G0-PM5V5y1Te3yYl9L/?page=0</jsonrpc>
@@ -43,6 +51,14 @@
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLAIwmSmpobdWUa1FWsaJHdcwoOod0j_XQ/?page=0</jsonrpc>
 <thumbnail>https://i.ibb.co/BTZNtkT/just-dance-2017.png</thumbnail>
+<fanart>https://i.ibb.co/m9YZh0s/backgro-anub.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR violet] Dance Central SpotLight [/COLOR] [/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLAIwmSmpobdU2TGrCHlTDCrl8tQTK5USU/?page=0</jsonrpc>
+<thumbnail>https://i.ibb.co/WBPrBQs/dance-central-spotlight.png</thumbnail>
 <fanart>https://i.ibb.co/m9YZh0s/backgro-anub.jpg</fanart>
 </item>
 
