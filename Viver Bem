@@ -23,6 +23,14 @@
 </item>
 
 <item>
+<title>[B][COLOR violet]Zumba Fitness Rush [/COLOR] [/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLvPZP7abCSkG1TUSwo8Yyda19qCHm3_a4/?page=0</jsonrpc>
+<thumbnail>https://i.ibb.co/Ht5nr86/zumba-fitness-rush.png</thumbnail>
+<fanart>https://i.ibb.co/m9YZh0s/backgro-anub.jpg</fanart>
+</item>
+
+<item>
 <title>[B][COLOR violet]Just Dance 2014 [/COLOR] [/B]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLAIwmSmpobdXMWTQCSrTBaRmJCq_twuNx/?page=0</jsonrpc>
