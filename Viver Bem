@@ -17,7 +17,7 @@
 <item>
 <title>[B][COLOR violet]Zumba Fitness World Party [/COLOR] [/B]</title>
 <link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PL-cFC2J_Gs2wbP-QmkZ_mzk78VBQi5Jbt/?page=0</jsonrpc>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLAIwmSmpobdXW1k64hSAPudLzsT2MaTNs/?page=0</jsonrpc>
 <thumbnail>https://i.ibb.co/LJ8v6qX/zumba-xbox.png</thumbnail>
 <fanart>https://i.ibb.co/m9YZh0s/backgro-anub.jpg</fanart>
 </item>
@@ -27,6 +27,14 @@
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLvPZP7abCSkG1TUSwo8Yyda19qCHm3_a4/?page=0</jsonrpc>
 <thumbnail>https://i.ibb.co/Ht5nr86/zumba-fitness-rush.png</thumbnail>
+<fanart>https://i.ibb.co/m9YZh0s/backgro-anub.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR violet]Zumba Fitness core [/COLOR] [/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLzkyFTVU_5WJ3RpRxZ5L2t03FO2Dr7ace/?page=0</jsonrpc>
+<thumbnail>https://i.ibb.co/KGsvd24/zumba-fitness-core.png</thumbnail>
 <fanart>https://i.ibb.co/m9YZh0s/backgro-anub.jpg</fanart>
 </item>
 
