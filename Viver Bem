@@ -1,13 +1,21 @@
 <item>
-<title>[B]Yoga para Iniciantes 1.0 [/B]</title>		
-<thumbnail>https://i.ibb.co/GVnVVHt/yoga.png</thumbnail>
+<title>[B][COLOR violet]Yoga [/COLOR] [/B]</title>		
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLliphiBhRpFgvFI3yT2SX8dgSHDWOcqRj/?page=0</jsonrpc>
+<thumbnail>https://i.ibb.co/3cBHyGC/DANCE-FIT.png</thumbnail>
 <fanart>https://i.ibb.co/m9YZh0s/backgro-anub.jpg</fanart>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:518644B32DE37CC7F72BE78A30C57E6A3B36228A</link>
-<info>O yoga foi desenvolvido há cerca de 5 mil anos na Índia. Funciona como um sistema abrangente de saúde e bem-estar em todos os níveis: físico, mental, emocional e espiritual. Sua ciência espiritual é voltada para a autorrealização. O sábio indiano Patanjali, em seus Yoga Sutras, define o yoga como o controle das atividades da mente. Seus métodos incluem disciplinas éticas, posturas físicas, controle da respiração e meditação.</info>
 </item>
 
 <item>
-<title>[B]Dança Fit  [/B]</title>
+<title>[B][COLOR violet]30 Dias de Yoga [/COLOR] [/B]</title>		
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLnXTMjA8X5lc3s-cdY4ya_zaXT8tTjEDa/?page=0</jsonrpc>
+<thumbnail>https://i.ibb.co/CWsRQGc/30-DIAS-DE-YOGA.png</thumbnail>
+<fanart>https://i.ibb.co/m9YZh0s/backgro-anub.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR violet]Dança Fit [/COLOR] [/B]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PL-cFC2J_Gs2wbP-QmkZ_mzk78VBQi5Jbt/?page=0</jsonrpc>
 <thumbnail>https://i.ibb.co/3cBHyGC/DANCE-FIT.png</thumbnail>
@@ -15,7 +23,15 @@
 </item>
 
 <item>
-<title>[B]Zumba Fitness  [/B]</title>
+<title>[B][COLOR violet]Emagreça Dançando [/COLOR] [/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PL-cFC2J_Gs2yxO2w0OdJLcGxbWr9iAp_e/?page=0</jsonrpc>
+<thumbnail>https://i.ibb.co/0ZF86Hx/emagre-a-dan-ando.png</thumbnail>
+<fanart>https://i.ibb.co/m9YZh0s/backgro-anub.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR violet][COLOR violet]Zumba Fitness [/COLOR] [/B]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PLQzvPSFJA6-00HBPSMqlRcxHamTTKMM28/?page=0</jsonrpc>
 <thumbnail>https://i.ibb.co/LnJ0zRV/zumba.png</thumbnail>
@@ -23,15 +39,15 @@
 </item>
 
 <item>
-<title>[B]Treino Evolution [/B]</title>		
-<thumbnail>https://i.ibb.co/Krs4pMF/TREINO-EVOLUTION.png</thumbnail>
+<title>[B][COLOR violet][COLOR violet]Treino Para Mulheres [/COLOR] [/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLz_NPv0pu0eu9BYf8GOkZ-Lj82d3_bJwF/?page=0</jsonrpc>
+<thumbnail>https://i.ibb.co/z4MfYbW/treino-para-mulheres.png</thumbnail>
 <fanart>https://i.ibb.co/m9YZh0s/backgro-anub.jpg</fanart>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B411AF19EEF3E38F3C9F17C18A772B72F712B6E6</link>
-<info>  </info>
 </item>
 
 <item>
-<title>[B]Universidade Maromba[/B]</title>		
+<title>[B][COLOR violet]Universidade Maromba[/COLOR] [/B]</title>		
 <thumbnail>https://i.ibb.co/mRF62YJ/universidade-maromba.png</thumbnail>
 <fanart>https://i.ibb.co/m9YZh0s/backgro-anub.jpg</fanart>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0A293E3478F6B3441B9847A16E5FB8209C6D5E33</link>
@@ -39,7 +55,7 @@
 </item>
 
 <item>
-<title>[B]Sardinh Evolution[/B]</title>		
+<title>[B][COLOR violet]Sardinha Evolution[/COLOR] [/B]</title>		
 <thumbnail>https://i.ibb.co/84CJ8rv/sardinha-evolution.png</thumbnail>
 <fanart>https://i.ibb.co/m9YZh0s/backgro-anub.jpg</fanart>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:70E33BFC9CC1EFA6BB7789E616349DA535FD3575</link>
