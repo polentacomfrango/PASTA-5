@@ -15,10 +15,18 @@
 </item>
 
 <item>
-<title>[B][COLOR violet]Dança Fit [/COLOR] [/B]</title>
+<title>[B][COLOR violet]Fit Dance [/COLOR] [/B]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PL-cFC2J_Gs2wbP-QmkZ_mzk78VBQi5Jbt/?page=0</jsonrpc>
 <thumbnail>https://i.ibb.co/3cBHyGC/DANCE-FIT.png</thumbnail>
+<fanart>https://i.ibb.co/m9YZh0s/backgro-anub.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR violet]Fit Dance 2 [/COLOR] [/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PL-cFC2J_Gs2zgxyWlK6Z53YUTyjeyqyHb/?page=0</jsonrpc>
+<thumbnail>https://i.ibb.co/TrcrXRY/dance-fit-2.png</thumbnail>
 <fanart>https://i.ibb.co/m9YZh0s/backgro-anub.jpg</fanart>
 </item>
 
@@ -87,13 +95,6 @@
 <fanart>https://i.ibb.co/m9YZh0s/backgro-anub.jpg</fanart>
 </item>
 
-<item>
-<title>[B][COLOR violet]Cardio Dance [/COLOR] [/B]</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLtfuCqabNcQjM5wghITLkEReytVMTkZK7/?page=0</jsonrpc>
-<thumbnail>https://i.ibb.co/4NHwPyx/mexa-seu-corpo.png</thumbnail>
-<fanart>https://i.ibb.co/m9YZh0s/backgro-anub.jpg</fanart>
-</item>
 
 
 
