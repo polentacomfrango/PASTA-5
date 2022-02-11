@@ -8,7 +8,7 @@ CANAIS ABERTOS
 BAND
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND " tvg-logo="https://i.ibb.co/345FZrv/band.png" group-title="ABERTOS",BAND
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/16697
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=https://jsb1kmslnt.singularcdn.net.br/live/25356fad-de88-4713-8321-5eac925228cf/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND " tvg-logo="https://i.ibb.co/345FZrv/band.png" group-title="ABERTOS",BAND
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://vipeiptv.com:25461/brian123/brian321/856507
