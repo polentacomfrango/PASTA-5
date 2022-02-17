@@ -434,10 +434,10 @@ DOCUMENTÁRIOS
 ANIMAL PLANET
 
 #EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET" tvg-logo="https://i.ibb.co/XJQRNq2/animal-planet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://pvsrvs.xyz:80/dieilson25/di378271909/334
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://hostengine.live:25461/palmer/palmer/58435?
 
 #EXTINF:-1 tvg-id="ANIMAL PLANET ALT" tvg-name="ANIMAL PLANET ALT" tvg-logo="https://i.ibb.co/XJQRNq2/animal-planet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://pvsrvs.xyz:80/dieilson25/di378271909/3174
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://168.205.87.198:8555/live/antony/1234/18.ts?
 
 #EXTINF:-1 tvg-id="ANIMAL PLANET ALT 2" tvg-name="ANIMAL PLANET ALT 2" tvg-logo="https://i.ibb.co/XJQRNq2/animal-planet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://pvsrvs.xyz:80/dieilson25/di378271909/340
