@@ -79,18 +79,18 @@
 </item>
 
 <item>
-<title>[B][COLOR violet]xxx[/COLOR] [/B]</title>
+<title>[B][COLOR violet]A Sétima Arte[/COLOR] [/B]</title>
 <link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/xxx/?page=0</jsonrpc>
-<thumbnail>https://i.ibb.co/42YJ1Xn/HAPPY-TREE.png</thumbnail>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PL3yv1E7IiXyR7_nH_0WCN5RQ6p-ryqkQC/?page=0</jsonrpc>
+<thumbnail>https://i.ibb.co/Pwg4p12/a-setima-arte.png</thumbnail>
 <fanart>https://i.ibb.co/m9YZh0s/backgro-anub.jpg</fanart>
 </item>
 
 <item>
-<title>[B][COLOR violet]xxx[/COLOR] [/B]</title>
+<title>[B][COLOR violet]O Fim da Beleza[/COLOR] [/B]</title>
 <link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/xxx/?page=0</jsonrpc>
-<thumbnail>https://i.ibb.co/42YJ1Xn/HAPPY-TREE.png</thumbnail>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PL3yv1E7IiXyRA-5EXNUNIAIhVqJFhOMLZ/?page=0</jsonrpc>
+<thumbnail>https://i.ibb.co/T0cw6n0/o-fim-da-beleza.png</thumbnail>
 <fanart>https://i.ibb.co/m9YZh0s/backgro-anub.jpg</fanart>
 </item>
 
