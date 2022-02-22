@@ -95,10 +95,10 @@
 </item>
 
 <item>
-<title>[B][COLOR violet]xxx[/COLOR] [/B]</title>
+<title>[B][COLOR violet]Brasil Paralelo[/COLOR] [/B]</title>
 <link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/xxx/?page=0</jsonrpc>
-<thumbnail>https://i.ibb.co/42YJ1Xn/HAPPY-TREE.png</thumbnail>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCKDjjeeBmdaiicey2nImISw/?page=0</jsonrpc>
+<thumbnail>https://media.fstatic.com/H3Kw4Z4fuVhCK3EuVkIZ_3m4TUc=/290x478/smart/media/movies/covers/2017/09/geass_visual01.png</thumbnail>
 <fanart>https://i.ibb.co/m9YZh0s/backgro-anub.jpg</fanart>
 </item>
 
