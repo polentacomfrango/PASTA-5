@@ -1,5 +1,19 @@
+
+
+
+
+
 <item>
-<title>[B][COLOR violet]A Queda Argentina | MARATONA[/COLOR] [/B]</title>
+<title>[B][COLOR violet]teste [/COLOR] [/B]</title>
+<link>ignoreme</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/UCKDjjeeBmdaiicey2nImISw/live/</jsonrpc>
+<thumbnail>https://i.ibb.co/J31F5J3/a-queda-argentinaaa.png</thumbnail>
+<fanart>https://i.ibb.co/m9YZh0s/backgro-anub.jpg</fanart>
+</item>
+
+
+<item>
+<title>[B][COLOR violet]A Queda Argentina [/COLOR] [/B]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PL3yv1E7IiXyTJjinyHasMWtc0NegBnMAg/?page=0</jsonrpc>
 <thumbnail>https://i.ibb.co/J31F5J3/a-queda-argentinaaa.png</thumbnail>
