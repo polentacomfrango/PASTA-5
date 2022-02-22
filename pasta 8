@@ -63,6 +63,46 @@
 </item>
 
 <item>
+<title>[B][COLOR violet]A Primeira Arte[/COLOR] [/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PL3yv1E7IiXyTWjQqjR2SRkiU3OnhHl_7l/?page=0</jsonrpc>
+<thumbnail>https://i.ibb.co/bWb4YCB/primeira-arte.png</thumbnail>
+<fanart>https://i.ibb.co/m9YZh0s/backgro-anub.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR violet]Cortina de Fumaça[/COLOR] [/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PL3yv1E7IiXyTdFJWvC2EySbBP0glsRZ8C/?page=0</jsonrpc>
+<thumbnail>https://i.ibb.co/wYrRR68/cortina.png</thumbnail>
+<fanart>https://i.ibb.co/m9YZh0s/backgro-anub.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR violet]xxx[/COLOR] [/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/xxx/?page=0</jsonrpc>
+<thumbnail>https://i.ibb.co/42YJ1Xn/HAPPY-TREE.png</thumbnail>
+<fanart>https://i.ibb.co/m9YZh0s/backgro-anub.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR violet]xxx[/COLOR] [/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/xxx/?page=0</jsonrpc>
+<thumbnail>https://i.ibb.co/42YJ1Xn/HAPPY-TREE.png</thumbnail>
+<fanart>https://i.ibb.co/m9YZh0s/backgro-anub.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR violet]xxx[/COLOR] [/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/xxx/?page=0</jsonrpc>
+<thumbnail>https://i.ibb.co/42YJ1Xn/HAPPY-TREE.png</thumbnail>
+<fanart>https://i.ibb.co/m9YZh0s/backgro-anub.jpg</fanart>
+</item>
+
+<item>
 <title>[B][COLOR violet]xxx[/COLOR] [/B]</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/xxx/?page=0</jsonrpc>
