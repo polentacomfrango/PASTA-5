@@ -55,10 +55,10 @@
 </item>
 
 <item>
-<title>[B][COLOR violet]xxx[/COLOR] [/B]</title>
+<title>[B][COLOR violet]Os Donos da Verdade[/COLOR] [/B]</title>
 <link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/xxx/?page=0</jsonrpc>
-<thumbnail>https://i.ibb.co/42YJ1Xn/HAPPY-TREE.png</thumbnail>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PL3yv1E7IiXyTHSvJRZWkThi3kaHoGZh03/?page=0</jsonrpc>
+<thumbnail>https://i.ibb.co/W5Z16c5/os-donos-da-verdade.png</thumbnail>
 <fanart>https://i.ibb.co/m9YZh0s/backgro-anub.jpg</fanart>
 </item>
 
