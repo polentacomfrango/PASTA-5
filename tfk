@@ -11,10 +11,10 @@ BAND
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=https://cdn.livepeer.com/hls/b4d2ly5lyi54471g/index.m3u8
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND " tvg-logo="https://i.ibb.co/345FZrv/band.png" group-title="ABERTOS",BAND
-https://sinalpublico.com/player3/ch.php?canal=natgeowild
+https://cdn.livepeer.com/hls/b4d2ly5lyi54471g/index.m3u8
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://i.ibb.co/345FZrv/band.png" group-title="ABERTOS",BAND 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://vip.vprotv.com:25443/MAG6WMIZW3o62/cGdkM2XRyy/39203
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=https://cdn.livepeer.com/hls/b4d2ly5lyi54471g/index.m3u8
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://i.ibb.co/345FZrv/band.png" group-title="ABERTOS",BAND 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR violet][B]ANUBIS[/B][/COLOR]&amp;url=http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31056
